@@ -1,0 +1,65 @@
+{
+    "datas": 
+    [
+        {
+            "loop_vid_name": "mode_air_loop",
+            "loop_audio_name": "mode_air_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+            ],
+            "images": [
+            ]
+        },
+        {
+            "loop_vid_name": "mode_freestyle_loop",
+            "loop_audio_name": "mode_freestyle_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+            ],
+            "images": [
+            ]
+        },
+        {
+            "loop_vid_name": "mode_online_loop",
+            "loop_audio_name": "mode_online_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+            ],
+            "images": [
+            ]
+        },
+        {
+            "loop_vid_name": "mode_mission_loop",
+            "loop_audio_name": "mode_mission_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+            ],
+            "images": [
+            ]
+        },
+        {
+            "loop_vid_name": "mode_collection_loop",
+            "loop_audio_name": "mode_collection_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+            ],
+            "images": [
+            ]
+        },
+        {
+            "loop_vid_name": "mode_rank_loop",
+            "loop_audio_name": "mode_rank_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+            ],
+            "images": [
+            ]
+        }
+    ]
+}

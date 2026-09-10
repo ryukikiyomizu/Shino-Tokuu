@@ -1,0 +1,371 @@
+{
+    "datas": 
+    [
+        {
+            "loop_vid_name": "mode_air_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_air_loop_1_1", "time": 0  },
+                {"filename": "voice_air_loop_1_2", "time": 1485  },
+                {"filename": "se_donation_02", "time": 4000  },
+                {"filename": "voice_air_loop_1_3", "time": 6072  },
+                {"filename": "voice_air_loop_1_4", "time": 7920  },
+                {"filename": "voice_air_loop_1_5", "time": 11649  }
+            ],
+            "images": [
+                {   "filename": "img_air_loop_1_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 900, "hideTime": 0 },
+                {   "filename": "img_air_loop_1_2", "time": 990, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2970, "hideTime": 0 },
+                {   "filename": "img_air_loop_1_3", "time": 3960, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2112, "hideTime": 0 },
+                {   "filename": "img_air_loop_1_4", "time": 6072, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1419, "hideTime": 0 },
+                {   "filename": "img_air_loop_1_5", "time": 7491, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4158, "hideTime": 0 },
+                {   "filename": "img_air_loop_1_6", "time": 11649, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5247, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_air_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_air_loop_2_1", "time": 0  },
+                {"filename": "voice_air_loop_2_2", "time": 1848  },
+                {"filename": "se_donation_02", "time": 3960  },
+                {"filename": "voice_air_loop_2_3", "time": 4983  },
+                {"filename": "voice_air_loop_2_4", "time": 6963  },
+                {"filename": "se_blank", "time": 10500  },
+                {"filename": "voice_air_loop_2_5", "time": 11583  },
+                {"filename": "voice_air_loop_2_6", "time": 14553  }
+            ],
+            "images": [
+                {   "filename": "img_air_loop_2_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1485, "hideTime": 0 },
+                {   "filename": "img_air_loop_2_2", "time": 1485, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2475, "hideTime": 0 },
+                {   "filename": "img_air_loop_2_3", "time": 3960, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1023, "hideTime": 0 },
+                {   "filename": "img_air_loop_2_4", "time": 4983, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1980, "hideTime": 0 },
+                {   "filename": "img_air_loop_2_5", "time": 6963, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3597, "hideTime": 0 },
+                {   "filename": "img_air_loop_2_6", "time": 10560, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1023, "hideTime": 0 },
+                {   "filename": "img_air_loop_2_7", "time": 11583, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2970, "hideTime": 0 },
+                {   "filename": "img_air_loop_2_8", "time": 14553, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1056, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_air_loop_3",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_air_loop_3_1", "time": 264  },
+                {"filename": "se_donation_02", "time": 5544  },
+                {"filename": "voice_air_loop_3_2", "time": 6930  },
+                {"filename": "voice_air_loop_3_3", "time": 7920  },
+                {"filename": "se_donation_02", "time": 8778  },
+                {"filename": "voice_air_loop_3_4", "time": 10296  }
+                
+            ],
+            "images": [
+                {   "filename": "img_air_loop_3_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5544, "hideTime": 0 },
+                {   "filename": "img_air_loop_3_2", "time": 5544, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1386, "hideTime": 0 },
+                {   "filename": "img_air_loop_3_3", "time": 6930, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_air_loop_3_4", "time": 7920, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 858, "hideTime": 0 },
+                {   "filename": "img_air_loop_3_5", "time": 8778, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1518, "hideTime": 0 },
+                {   "filename": "img_air_loop_3_6", "time": 10296, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2343, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_freestyle_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_freestyle_loop_1_1", "time": 0  },
+                {"filename": "se_donation_02", "time": 4488  },
+                {"filename": "voice_freestyle_loop_1_2", "time": 5643  },
+                {"filename": "voice_freestyle_loop_1_3", "time": 10296  },
+                {"filename": "se_blank", "time": 12000  },
+                {"filename": "voice_freestyle_loop_1_4", "time": 12969  },
+                {"filename": "voice_freestyle_loop_1_5", "time": 16665  }
+            ],
+            "images": [
+                {   "filename": "img_freestyle_loop_1_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4488, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_1_2", "time": 4488, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1188, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_1_3", "time": 5676, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4587, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_1_4", "time": 10263, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1584, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_1_5", "time": 11847, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1122, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_1_6", "time": 12969, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3531, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_1_7", "time": 16500, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2211, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_freestyle_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_freestyle_loop_2_1", "time": 528  },
+                {"filename": "voice_freestyle_loop_2_2", "time": 5247  },
+                {"filename": "voice_freestyle_loop_2_3", "time": 6930  },
+                {"filename": "voice_freestyle_loop_2_4", "time": 12639  },
+                {"filename": "voice_freestyle_loop_2_5", "time": 15246  }
+            ],
+            "images": [
+                {   "filename": "img_freestyle_loop_2_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4983, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_2_2", "time": 4983, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1650, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_2_3", "time": 6633, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1881, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_2_4", "time": 12639, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2607, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_2_5", "time": 15246, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2937, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_freestyle_loop_3",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_freestyle_loop_3_1", "time": 495  },
+                {"filename": "se_donation_02", "time": 5214  },
+                {"filename": "voice_freestyle_loop_3_2", "time": 7161  },
+                {"filename": "se_blank", "time": 11000  },
+                {"filename": "voice_freestyle_loop_3_3", "time": 13134  }
+            ],
+            "images": [
+                {   "filename": "img_freestyle_loop_3_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5214, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_3_2", "time": 5214, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1716, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_3_3", "time": 6930, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4257, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_3_4", "time": 11187, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1716, "hideTime": 0 },
+                {   "filename": "img_freestyle_loop_3_5", "time": 12903, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3927, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_online_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_online_loop_1_1", "time": 561  },
+                {"filename": "voice_online_loop_1_2", "time": 3960  },
+                {"filename": "voice_online_loop_1_3", "time": 7557  },
+                {"filename": "se_transition_01", "time": 11649  },
+                {"filename": "voice_online_loop_1_4", "time": 12870  }
+            ],
+            "images": [
+                {   "filename": "img_online_loop_1_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3861, "hideTime": 0 },
+                {   "filename": "img_online_loop_1_2", "time": 3861, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3399, "hideTime": 0 },
+                {   "filename": "img_online_loop_1_3", "time": 7260, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4389, "hideTime": 0 },
+                {   "filename": "img_online_loop_1_4", "time": 12672, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 6270, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_online_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_online_loop_2_1", "time": 429  },
+                {"filename": "se_donation_02", "time": 5280  },
+                {"filename": "voice_online_loop_2_2", "time": 6930  },
+                {"filename": "se_donation_02", "time": 12705  },
+                {"filename": "voice_online_loop_2_3", "time": 14454  }
+            ],
+            "images": [
+                {   "filename": "img_online_loop_2_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5280, "hideTime": 0 },
+                {   "filename": "img_online_loop_2_2", "time": 5280, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1650, "hideTime": 0 },
+                {   "filename": "img_online_loop_2_3", "time": 6930, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4818, "hideTime": 0 },
+                {   "filename": "img_online_loop_2_4", "time": 12705, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1782, "hideTime": 0 },
+                {   "filename": "img_online_loop_2_5", "time": 14454, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4686, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_online_loop_3",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_online_loop_3_1", "time": 396  },
+                {"filename": "se_transition_01", "time": 4323  },
+                {"filename": "voice_online_loop_3_2", "time": 5511  },
+                {"filename": "se_transition_01", "time": 10560  },
+                {"filename": "voice_online_loop_3_3", "time": 12177  },
+                {"filename": "voice_online_loop_3_4", "time": 14487  }
+            ],
+            "images": [
+                {   "filename": "img_online_loop_3_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4243, "hideTime": 0 },
+                {   "filename": "img_online_loop_3_2", "time": 5313, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5247, "hideTime": 0 },
+                {   "filename": "img_online_loop_3_3", "time": 11550, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2244, "hideTime": 0 },
+                {   "filename": "img_online_loop_3_4", "time": 14388, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1254, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_mission_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_mission_loop_1_1", "time": 132  },
+                {"filename": "voice_mission_loop_1_2", "time": 1089  },
+                {"filename": "se_donation_02", "time": 4257  },
+                {"filename": "voice_mission_loop_1_3", "time": 6534  },
+                {"filename": "voice_mission_loop_1_4", "time": 8052  },
+                {"filename": "voice_mission_loop_1_5", "time": 11979  },
+                {"filename": "voice_mission_loop_1_6", "time": 13794  }
+            ],
+            "images": [
+                {   "filename": "img_mission_loop_1_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_mission_loop_1_2", "time": 990, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3267, "hideTime": 0 },
+                {   "filename": "img_mission_loop_1_3", "time": 4257, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2112, "hideTime": 0 },
+                {   "filename": "img_mission_loop_1_4", "time": 6369, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1419, "hideTime": 0 },
+                {   "filename": "img_mission_loop_1_5", "time": 7788, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4686, "hideTime": 0 },
+                {   "filename": "img_mission_loop_1_6", "time": 12474, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1320, "hideTime": 0 },
+                {   "filename": "img_mission_loop_1_7", "time": 13794, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3531, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_mission_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_mission_loop_2_1", "time": 429  },
+                {"filename": "voice_mission_loop_2_2", "time": 4059  },
+                {"filename": "voice_mission_loop_2_3", "time": 5049  },
+                {"filename": "voice_mission_loop_2_4", "time": 6345  },
+                {"filename": "voice_mission_loop_2_5", "time": 8778  }
+            ],
+            "images": [
+                {   "filename": "img_mission_loop_2_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4059, "hideTime": 0 },
+                {   "filename": "img_mission_loop_2_2", "time": 4059, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_mission_loop_2_3", "time": 5049, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_mission_loop_2_4", "time": 6039, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2739, "hideTime": 0 },
+                {   "filename": "img_mission_loop_2_5", "time": 8778, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2607, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_mission_loop_3",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_mission_loop_3_1", "time": 330  },
+                {"filename": "voice_mission_loop_3_2", "time": 3366  },
+                {"filename": "voice_mission_loop_3_3", "time": 5148  },
+                {"filename": "se_donation_02", "time": 8085  },
+                {"filename": "voice_mission_loop_3_4", "time": 9636  },
+                {"filename": "voice_mission_loop_3_5", "time": 10560  },
+                {"filename": "voice_mission_loop_3_6", "time": 14586  }
+            ],
+            "images": [
+                {   "filename": "img_mission_loop_3_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3267, "hideTime": 0 },
+                {   "filename": "img_mission_loop_3_2", "time": 3267, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1617, "hideTime": 0 },
+                {   "filename": "img_mission_loop_3_3", "time": 4884, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3201, "hideTime": 0 },
+                {   "filename": "img_mission_loop_3_4", "time": 8056, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1386, "hideTime": 0 },
+                {   "filename": "img_mission_loop_3_5", "time": 9471, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_mission_loop_3_6", "time": 10461, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3762, "hideTime": 0 },
+                {   "filename": "img_mission_loop_3_7", "time": 14223, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 6996, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_collection_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_collection_loop_1_1", "time": 0  },
+                {"filename": "se_donation_02", "time": 5115  },
+                {"filename": "voice_collection_loop_1_2", "time": 6996  },
+                {"filename": "se_donation_02", "time": 12540  },
+                {"filename": "voice_collection_loop_1_3", "time": 13563  }
+            ],
+            "images": [
+                {   "filename": "img_collection_loop_1_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5115, "hideTime": 0 },
+                {   "filename": "img_collection_loop_1_2", "time": 5115, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1023, "hideTime": 0 },
+                {   "filename": "img_collection_loop_1_3", "time": 6138, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 6402, "hideTime": 0 },
+                {   "filename": "img_collection_loop_1_4", "time": 12510, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1023, "hideTime": 0 },
+                {   "filename": "img_collection_loop_1_5", "time": 13563, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3399, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_collection_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_collection_loop_2_1", "time": 0  },
+                {"filename": "se_donation_02", "time": 6006  },
+                {"filename": "voice_collection_loop_2_2", "time": 6996  },
+                {"filename": "voice_collection_loop_2_3", "time": 8316  },
+                {"filename": "se_donation_02", "time": 13728  },
+                {"filename": "voice_collection_loop_2_4", "time": 14817  },
+                {"filename": "voice_collection_loop_2_5", "time": 18381  }
+            ],
+            "images": [
+                {   "filename": "img_collection_loop_2_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 6006, "hideTime": 0 },
+                {   "filename": "img_collection_loop_2_2", "time": 6006, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_collection_loop_2_3", "time": 6996, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1221, "hideTime": 0 },
+                {   "filename": "img_collection_loop_2_4", "time": 8217, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5610, "hideTime": 0 },
+                {   "filename": "img_collection_loop_2_5", "time": 13827, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_collection_loop_2_6", "time": 14817, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3564, "hideTime": 0 },
+                {   "filename": "img_collection_loop_2_7", "time": 18381, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3828, "hideTime": 0 }
+            ]
+        },
+         {
+            "loop_vid_name": "mode_collection_loop_3",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_collection_loop_3_1", "time": 396  },
+                {"filename": "se_donation_02", "time": 5511  },
+                {"filename": "voice_collection_loop_3_2", "time": 6501  },
+                {"filename": "se_blank", "time": 12639  },
+                {"filename": "voice_collection_loop_3_3", "time": 12639  },
+                {"filename": "voice_collection_loop_3_4", "time": 15807  }
+            ],
+            "images": [
+                {   "filename": "img_collection_loop_3_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5511, "hideTime": 0 },
+                {   "filename": "img_collection_loop_3_2", "time": 5511, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 957, "hideTime": 0 },
+                {   "filename": "img_collection_loop_3_3", "time": 6501, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5148, "hideTime": 0 },
+                {   "filename": "img_collection_loop_3_4", "time": 11649, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 990, "hideTime": 0 },
+                {   "filename": "img_collection_loop_3_5", "time": 12639, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3168, "hideTime": 0 },
+                {   "filename": "img_collection_loop_3_6", "time": 15807, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3267, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_rank_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_rank_loop_1_1", "time": 627  },
+                {"filename": "se_donation_02", "time": 4686  },
+                {"filename": "voice_rank_loop_1_2", "time": 6600  },
+                {"filename": "se_transition_01", "time": 10494  },
+                {"filename": "voice_rank_loop_1_3", "time": 11979  }
+            ],
+            "images": [
+                {   "filename": "img_rank_loop_1_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4686, "hideTime": 0 },
+                {   "filename": "img_rank_loop_1_2", "time": 4686, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1617, "hideTime": 0 },
+                {   "filename": "img_rank_loop_1_3", "time": 6303, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4224, "hideTime": 0 },
+                {   "filename": "img_rank_loop_1_4", "time": 11517, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4323, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_rank_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_rank_loop_2_1", "time": 792  },
+                {"filename": "se_transition_01", "time": 5544  },
+                {"filename": "voice_rank_loop_2_2", "time": 6963  },
+                {"filename": "se_transition_01", "time": 11517  },
+                {"filename": "voice_rank_loop_2_3", "time": 12507  }
+            ],
+            "images": [
+                {   "filename": "img_rank_loop_2_1", "time": 500, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5544, "hideTime": 0 },
+                {   "filename": "img_rank_loop_2_2", "time": 6534, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4983, "hideTime": 0 },
+                {   "filename": "img_rank_loop_2_3", "time": 12507, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 3531, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_rank_loop_3",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "voice_rank_loop_3_1", "time": 0  },
+                {"filename": "se_donation_02", "time": 7590  },
+                {"filename": "voice_rank_loop_3_2", "time": 9603  },
+                {"filename": "voice_rank_loop_3_3", "time": 16104  }
+            ],
+            "images": [
+                {   "filename": "img_rank_loop_3_1", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 4653, "hideTime": 0 },
+                {   "filename": "img_rank_loop_3_2", "time": 4653, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 2970, "hideTime": 0 },
+                {   "filename": "img_rank_loop_3_3", "time": 7623, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 1617, "hideTime": 0 },
+                {   "filename": "img_rank_loop_3_4", "time": 9240, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 5445, "hideTime": 0 },
+                {   "filename": "img_rank_loop_3_5", "time": 15708, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 6468, "hideTime": 0 }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "datas": 
+    [
+        {
+            "loop_vid_name": "mode_freestyle_loop",
+            "audios": [ ],
+            "images": [
+                {   "filename": "img_freestyle_loop_1_1", "time": 2000, "position": { "x": -735, "y": 342, "z": 0 }, "duration": 3080, "hideTime": 0 }
+            ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 140, "name": " ", "duration": 1.64, "dialog": "<size=34>Ugh... Argh... Darn it... Eh!...</size>" },
+                        { "time": 2500, "name": "<color=#F6B018>CLEAR</color>", "duration": 0.34, "dialog": "<shake><size=50>Don’t underestimate me!</size></shake>" },
+                        { "time": 4700, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 5640, "name": " ", "duration": 2.66, "dialog": "<size=34>It’s Clear, the baseball team captain. she loved baseball since she was a kid, and somehow, she became this incredible batter.</size>" },
+                        { "time": 9340, "name": " ", "duration": 3, "dialog": "<size=34>Maybe she became too strong... She got hit by a ball thrown by a nervous pitcher, and now, she's struggling to even put on my shoes alone.</size>" },
+                        { "time": 13380, "name": "<color=#3D3388>PLAY</color>", "duration": 1.66, "dialog": "<size=34>Um... Clear, you seem to be having a hard time. Need some help?</size>" },
+                        { "time": 15740, "name": "<color=#F6B018>CLEAR</color>", "duration": 2.32, "dialog": "<size=34>Huh? Play? When did you get here!? I can do this much on my own with determination and fighting spirit!</size>" },
+                        { "time": 19100, "name": " ", "duration": 3, "dialog": "<size=34>Suddenly, she tries to cram her feet into her shoes. It seems like the shoes are screaming, crushed by Clear’s determination and spirit.</size>" },
+                        { "time": 23480, "name": "<color=#3D3388>PLAY</color>", "duration": 2.32, "dialog": "<size=34>Wow...Clear, your are impressive, but it seems like the shoes can't quite handle it.</size>" },
+                        { "time": 26840, "name": "<color=#3D3388>PLAY</color>", "duration": 2.32, "dialog": "<size=34>Let me help you with your shoes, and you can try slipping into them when the time’s right, how about that?</size>" },
+                        { "time": 30200, "name": "<color=#F6B018>CLEAR</color>", "duration": 2.34, "dialog": "<size=34>Should I? Well... since the shoes are being so frail, guess there’s no other way!</size>" },
+                        { "time": 33240, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34340, "name": " ", "duration": 1.66, "dialog": "<size=34>Clear entrusts her shoes to me, and she cautiously slides her foot in.</size>" },
+                        { "time": 36700, "name": " ", "duration": 2.34, "dialog": "<size=34>The shoes, which seemed to be wailing just moments ago, fit Clear’s feet perfectly, like Cinderella's glass slipper.</size>" },
+                        { "time": 40080, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 40740, "name": "<color=#3D3388>PLAY</color>", "duration": 1.66, "dialog": "<size=34>Ta-da~ Clear, you look just like Princess Cinderella!</size>" },
+                        { "time": 43100, "name": "<color=#F6B018>CLEAR</color>", "duration": 2, "dialog": "<size=34>What? Ha! Ch! Don’t get cocky! So what, you’re saying you’re the prince??!!!</size>" },
+                        { "time": 46140, "name": "<color=#F6B018>CLEAR</color>", "duration": 2.32, "dialog": "<size=34>Just you watch, I’ll heal up and make it to the nationals with my spirit, and I’ll show you what I’m made of!!!!!!</size>" },
+                        { "time": 49500, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 50140, "name": " ", "duration": 2.66, "dialog": "<size=34>I, being a girl, couldn’t quite grasp what the nationals had to do with anything and just stood there, dumbfounded, as Clear yelled and stormed off.</size>" },
+                        { "time": 53840, "name": " ", "duration": 2, "dialog": "<size=34>But seeing Clear so full of energy somehow gave me strength too.</size>" },
+                        { "time": 56880, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 140, "name": " ", "duration": 1.64, "dialog": "윽 ... 큭 ... 제길 .... 잇! ..." },
+                        { "time": 2500, "name": "<color=#F6B018>클리어</color>", "duration": 0.34, "dialog": "<shake><size=50>얕보지 말라고!</size></shake>" },
+                        { "time": 4700, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 5640, "name": " ", "duration": 2.66, "dialog": "야구부 주장 클리어다. 어릴 적부터 야구를 좋아했었는데,<br>어마어마한 괴물 타자가 되어버렸다." },
+                        { "time": 9340, "name": " ", "duration": 3, "dialog": "너무 강해져 버린 탓일까 ... 긴장한 상대가 던진 공에 맞아,<br>지금은 이렇게 혼자 신발을 신기도 어려운 상태다." },
+                        { "time": 13380, "name": "<color=#3D3388>플레이</color>", "duration": 1.66, "dialog": "저 ... 클리어, 불편해 보이는데 도와줄까?" },
+                        { "time": 15740, "name": "<color=#F6B018>클리어</color>", "duration": 2.32, "dialog": "엥? 플레이냐? 언제부터 거기 있었어!?<br>이 정도는 근성과 기합으로 혼자 할 수 있다구!" },
+                        { "time": 19100, "name": " ", "duration": 3, "dialog": "갑자기 마구잡이로 구두를 구겨 신으려고 한다. <br>클리어의 근성과 기합에 구두가 구겨져 비명을 지르는 것 같다." },
+                        { "time": 23480, "name": "<color=#3D3388>플레이</color>", "duration": 2.32, "dialog": "크..클리어, 너의 근성과 기합은 대단하지만,<br>구두가 그걸 받아주긴 힘든 것 같네." },
+                        { "time": 26840, "name": "<color=#3D3388>플레이</color>", "duration": 2.32, "dialog": "내가 구두를 부축할 테니까,<br>그때를 노려서 신발을 신어 보는 건 어떨까?" },
+                        { "time": 30200, "name": "<color=#F6B018>클리어</color>", "duration": 2.34, "dialog": "그..그럴까?<br>하긴...구...구두가 나약하니까 어쩔 수 없네!" },
+                        { "time": 33240, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34340, "name": " ", "duration": 1.66, "dialog": "클리어는 구두를 나에게 부탁하고, 조심스럽게 발을 넣었다." },
+                        { "time": 36700, "name": " ", "duration": 2.34, "dialog": "방금 전까지 비명을 지르던 구두는,<br>신데렐라의 구두처럼 클리어의 발에 딱 맞았다." },
+                        { "time": 40080, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 40740, "name": "<color=#3D3388>플레이</color>", "duration": 1.66, "dialog": "짜잔~ 클리어 마치 신데렐라의 공주님 같네!" },
+                        { "time": 43100, "name": "<color=#F6B018>클리어</color>", "duration": 2, "dialog": "뭐? 핫! 칫! 우쭐대지 말라고!<br>그럼 네가 왕자님이라는 거야??!!!" },
+                        { "time": 46140, "name": "<color=#F6B018>클리어</color>", "duration": 2.32, "dialog": "두고 봐, 근성으로 전국 대회까지 꼭 다 나아서,<br>본때를 보여줄 테니까 !!!!!!!!!" },
+                        { "time": 49500, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 50140, "name": " ", "duration": 2.66, "dialog": "나는 여자아이고, 전국 대회랑 무슨 상관인지도 이해하지 못하겠기에<br>소리를 지르고 뛰쳐나가는 클리어를 벙쪄서 바라만 보았다." },
+                        { "time": 53840, "name": " ", "duration": 2, "dialog": "그래도 클리어의 힘찬 모습을 보니까, 나도 덩달아 힘이 나는 것 같았다." },
+                        { "time": 56880, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 140, "name": " ", "duration": 1.64, "dialog": "うっ...くっ...くそっ...いっ..." },
+                        { "time": 2500, "name": "<color=#F6B018>クレア</color>", "duration": 0.34, "dialog": "<shake><size=50>なめるなよ！</size></shake>" },
+                        { "time": 4700, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 5640, "name": " ", "duration": 2.66, "dialog": "野球部のキャプテン、「クレア」だ。子供の頃から野球が好きだったんだ。でも、凄まじい怪物打者になってしまったんだ。" },
+                        { "time": 9340, "name": " ", "duration": 3, "dialog": "強くなりすぎたせいかな…緊張した相手が投げたボールに当たって、今はこんな風に一人で靴を履くのも難しい状態だ。" },
+                        { "time": 13380, "name": "<color=#3D3388>プレイ</color>", "duration": 1.66, "dialog": "えっと…「クレア」、不便そうだけど、手伝おうか？" },
+                        { "time": 15740, "name": "<color=#F6B018>クレア</color>", "duration": 2.32, "dialog": "えっ？「プレイ」かい？いつからそこにいたんだ！？このくらいは根性と気合で一人でできるって！" },
+                        { "time": 19100, "name": " ", "duration": 3, "dialog": "突然、乱暴に靴を無理やり履こうとする。クレアの根性と気合によって、靴が潰れて悲鳴を上げているようだ。" },
+                        { "time": 23480, "name": "<color=#3D3388>プレイ</color>", "duration": 2.32, "dialog": "ク…クレア、お前の根性と気合は素晴らしいけど、靴がそれを受け止めるのは難しいみたいだね。" },
+                        { "time": 26840, "name": "<color=#3D3388>プレイ</color>", "duration": 2.32, "dialog": "私が靴を支えるから、その時を狙って靴を履いてみるのはどうかな？" },
+                        { "time": 30200, "name": "<color=#F6B018>クレア</color>", "duration": 2.34, "dialog": "そ..それをやってみるか？そうだな…く…靴が弱いから仕方ないね！" },
+                        { "time": 33240, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34340, "name": " ", "duration": 1.66, "dialog": "クレアは靴を私に頼んで、慎重に足を入れた。" },
+                        { "time": 36700, "name": " ", "duration": 2.34, "dialog": "さっきまで悲鳴を上げていた靴は、シンデレラの靴のようにクレアの足にぴったり合った。" },
+                        { "time": 40080, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 40740, "name": "<color=#3D3388>プレイ</color>", "duration": 1.66, "dialog": "じゃじゃーん〜 クレア、まるでシンデレラのお姫様みたいだね！" },
+                        { "time": 43100, "name": "<color=#F6B018>クレア</color>", "duration": 2, "dialog": "何だって？はっ！ちっ！調子に乗るなよ！じゃあ、お前が王子様だっていうのか？！" },
+                        { "time": 46140, "name": "<color=#F6B018>クレア</color>", "duration": 2.32, "dialog": "見ていろよ、根性で全国大会まできっちり治して、見せつけてやるからな！！！！！！！" },
+                        { "time": 49500, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 50140, "name": " ", "duration": 2.66, "dialog": "私は女の子で、全国大会がどう関係あるのかも理解できずに叫んで飛び出して行くクレアをただ見送るだけだった。" },
+                        { "time": 53840, "name": " ", "duration": 2, "dialog": "それでもクレアの力強い姿を見て、私も一緒に力が湧いてくるようだった。" },
+                        { "time": 56880, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_online_loop",
+            "audios": [ ],
+            "images": [
+                {   "filename": "img_online_loop_1_1", "time": 2000, "position": { "x": -735, "y": 342, "z": 0 }, "duration": 7140, "hideTime": 0 }
+            ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 1500, "name": "<color=#3D3388>PLAY</color>", "duration": 1.1, "dialog": "<size=34>Hey, Fail~ The teacher’s been looking for you.</size>" },
+                        { "time": 4000, "name": "<color=#E94444>FAIL</color>", "duration": 3.34, "dialog": "<size=34>Heh - Did you come looking for me because of the teacher? That's a bit disappointing, Play-chan...</size>" },
+                        { "time": 8780, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9480, "name": " ", "duration": 3.02, "dialog": "<size=34>Even though she has not advanced to the next grade because her attendance is too low, Fail seemed completely at ease.</size>" },
+                        { "time": 12840, "name": "<color=#3D3388>PLAY</color>", "duration": 1.42, "dialog": "<size=34>If you don’t go back now, you’ll be marked absent again today." },
+                        { "time": 15300, "name": "<color=#E94444>FAIL</color>", "duration": 3, "dialog": "<size=34>If I go back now, Ms. Judgement will be left all alone- I’ve decided to wait with Ms. Judgement today.</size>" },
+                        { "time": 19340, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20040, "name": " ", "duration": 2.32, "dialog": "<size=34>Next to Fail sat the school’s famous black cat, \"Ms. Judgement,\" quietly sitting and staring at the sky.</size>" },
+                        { "time": 23400, "name": " ", "duration": 1.34, "dialog": "<size=34>Whenever bullies come up to the rooftop to smoke or start fights,</size>" },
+                        { "time": 25440, "name": " ", "duration": 2, "dialog": "<size=34>He fiercely leaps into action and chases them away, earning him the nickname \"The Black Judgement of the Rooftop\" or simply \"Ms. Judge.\"</size>" },
+                        { "time": 28480, "name": " ", "duration": 1.32, "dialog": "<size=34>Luckily, it seems that to Ms. Judgement, Fail and I aren’t considered delinquents.</size>" },
+                        { "time": 30840, "name": "<color=#3D3388>PLAY</color>", "duration": 1.42, "dialog": "<size=34>Um... so... what is Ms. Judgement waiting for?</size>" },
+                        { "time": 32980, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 33680, "name": "<color=#E94444>FAIL</color>", "duration": 2.66, "dialog": "<size=34>Not sure - but it seems like he’s waiting for something amazing, and I thought it’d be fun to stay here today.</size>" },
+                        { "time": 37380, "name": "<color=#E94444>FAIL</color>", "duration": 1.32, "dialog": "<size=34>Maybe it’ll be more fun if you wait with us, Play-chan?</size>" },
+                        { "time": 39400, "name": " ", "duration": 2.34, "dialog": "<size=34>I’ve never managed to persuade her, but today, I’m also at risk of being marked absent. I think I need to make a run for it.</size>" },
+                        { "time": 42780, "name": "<color=#3D3388>PLAY</color>", "duration": 2.42, "dialog": "<size=34>Th..Then I'll come back later to wait with you. If what Ms. Judgement is waiting for arrives in the meantime, make sure to come down!</size>" },
+                        { "time": 46240, "name": "<color=#E94444>FAIL</color>", "duration": 2.32, "dialog": "<size=34>Eeh - Play-chan… You have to come back… Otherwise, Ms. Judgement and I might turn into lonely stones....</size>" },
+                        { "time": 49600, "name": "<color=#3D3388>PLAY</color>", "duration": 0.76, "dialog": "<size=34>Ack... Okay, I promise to come back!</size>" },
+                        { "time": 51400, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 52120, "name": " ", "duration": 2.55, "dialog": "<size=34>Fail didn’t come down until school was over, and when I went back to the rooftop, the three of us waited together, but nothing happened.</size>" },
+                        { "time": 55800, "name": " ", "duration": 2.34, "dialog": "<size=34>It wasn’t until Ms. Judgement seemed to lose interest and left the rooftop that Fail also left, saying she had too much fun, and we left together.</size>" },
+                        { "time": 59180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 1500, "name": "<color=#3D3388>플레이</color>", "duration": 1.1, "dialog": "페일~ 선생님이 널 찾아오래." },
+                        { "time": 4000, "name": "<color=#E94444>페일</color>", "duration": 3.34, "dialog": "헤에 - 선생님 때문에 날 찾은 거야?          <br>플레이쨩... 조금은 실망스럽네에-" },
+                        { "time": 8780, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9480, "name": " ", "duration": 3.02, "dialog": "출석 일수가 모자라서 2학년으로 올라가지 못한<br>처지에서도 페일은 여유만만했다." },
+                        { "time": 12840, "name": "<color=#3D3388>플레이</color>", "duration": 1.42, "dialog": "지금 돌아가지 않으면, 오늘도 결석이 되어버릴 거야." },
+                        { "time": 15300, "name": "<color=#E94444>페일</color>", "duration": 3, "dialog": "내가 돌아가 버리면, 심판자 씨가 혼자 남게 된다구-<br>오늘은 심판자 씨랑 같이 기다리기로 결정했으니까." },
+                        { "time": 19340, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20040, "name": " ", "duration": 2.32, "dialog": "페일 옆에는 학교에서 유명한 검은 고양이 \"심판자\" 씨가<br>오도카니 앉아 하늘을 바라보고 있었다." },
+                        { "time": 23400, "name": " ", "duration": 1.34, "dialog": "옥상에 불량 학생들이 올라와 담배나 싸움을 시작하면," },
+                        { "time": 25440, "name": " ", "duration": 2, "dialog": "가차 없이 덤벼들어 내쫓는다고 해서<br>\"옥상의 검은 심판자\" 줄여서 \"심판자\" 씨 다." },
+                        { "time": 28480, "name": " ", "duration": 1.32, "dialog": "\"심판자\" 씨에게 다행히 페일과 나는 불량 학생이 아닌 것 같다." },
+                        { "time": 30840, "name": "<color=#3D3388>플레이</color>", "duration": 1.42, "dialog": "음... 저기... 심판자 씨가 뭘 기다리는 건지?" },
+                        { "time": 32980, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 33680, "name": "<color=#E94444>페일</color>", "duration": 2.66, "dialog": "글쎄에 - 뭔지는 모르지만, 굉장한 것을 기다리는 것 같아서,<br>오늘은 여기 있는 게 재미있을 것 같아." },
+                        { "time": 37380, "name": "<color=#E94444>페일</color>", "duration": 1.32, "dialog": "플레이쨩도 함께 기다리면 더 재미있을지도?" },
+                        { "time": 39400, "name": " ", "duration": 2.34, "dialog": "설득에 성공한 적도 없지만, 오늘은 나까지 결석이 될 위기다.<br>도망가야 할 것 같다." },
+                        { "time": 42780, "name": "<color=#3D3388>플레이</color>", "duration": 2.42, "dialog": "그.. 그러면 나는 나중에 다시 와서 같이 기다릴게.<br>그 사이에 심판자 씨가 기다리던 게 오면, 꼭 내려와!" },
+                        { "time": 46240, "name": "<color=#E94444>페일</color>", "duration": 2.32, "dialog": "에에 -플레이쨩..꼭 다시 와야 한다고..<br>그렇지 않으면 나랑 심판자 씨는 외롭게 돌이 되어버릴지도...." },
+                        { "time": 49600, "name": "<color=#3D3388>플레이</color>", "duration": 0.76, "dialog": "엑... 응, 꼭 다시 돌아올게!" },
+                        { "time": 51400, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 52120, "name": " ", "duration": 2.55, "dialog": "페일은 결국 학교가 끝날 때까지 내려오지 않았고, 옥상으로 돌아가<br>심판자 씨와 셋이 함께 기다려 보았지만 아무 일도 일어나지 않았다." },
+                        { "time": 55800, "name": " ", "duration": 2.34, "dialog": "심판자 씨가 흥미를 잃은 듯 옥상을 떠나고 나서야 페일도<br>너무 즐거웠다며 나랑 같이 자리를 떠났다." },
+                        { "time": 59180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 1500, "name": "<color=#3D3388>プレイ</color>", "duration": 1.1, "dialog": "「フェイル」〜先生が君を探してるよ。" },
+                        { "time": 4000, "name": "<color=#E94444>フェイル</color>", "duration": 3.34, "dialog": "ええー、先生のために私を探してくれたの？プレイちゃん…ちょっとがっかりだなあー" },
+                        { "time": 8780, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9480, "name": " ", "duration": 3.02, "dialog": "出席日数が足りずに2年生に進級できない状況でも、フェイルは余裕しゃくしゃくだった。" },
+                        { "time": 12840, "name": "<color=#3D3388>プレイ</color>", "duration": 1.42, "dialog": "今帰らないと、今日もまた欠席になっちゃうよ。" },
+                        { "time": 15300, "name": "<color=#E94444>フェイル</color>", "duration": 3, "dialog": "私が帰っちゃったら、「審判者」さんが一人ぼっちになっちゃうからー今日は審判者さんと一緒に待つことに決めたから。" },
+                        { "time": 19340, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20040, "name": " ", "duration": 2.32, "dialog": "フェイルの隣には、学校で有名な黒猫の「審判者」さんがじっと座って空を見上げていた。" },
+                        { "time": 23400, "name": " ", "duration": 1.34, "dialog": "屋上に不良生徒たちが上がってきて、タバコを吸ったり喧嘩を始めたりすると、" },
+                        { "time": 25440, "name": " ", "duration": 2, "dialog": "容赦なく襲いかかって追い払うというから「屋上の黒い審判者」を略して「審判者」さんだ。" },
+                        { "time": 28480, "name": " ", "duration": 1.32, "dialog": "「審判者」さんには幸い、ペイルと私は不良生徒ではないようだ。" },
+                        { "time": 30840, "name": "<color=#3D3388>プレイ</color>", "duration": 1.42, "dialog": "うーん…あの…審判者さんは何を待っているんだろう？" },
+                        { "time": 32980, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 33680, "name": "<color=#E94444>フェイル</color>", "duration": 2.66, "dialog": "さあねー、何を待っているのかはわからないけど、すごいものを待っているようだから、今日はここにいるのが面白そうだよ。" },
+                        { "time": 37380, "name": "<color=#E94444>フェイル</color>", "duration": 1.32, "dialog": "プレイちゃんも一緒に待ってたら、もっと楽しいかもね？" },
+                        { "time": 39400, "name": " ", "duration": 2.34, "dialog": "説得に成功したことはないけれど、今日は私も欠席になる危機だ。逃げなきゃいけないみたいだ。" },
+                        { "time": 42780, "name": "<color=#3D3388>プレイ</color>", "duration": 2.42, "dialog": "じゃ..じゃあ私は後でまた来て、一緒に待つね。その間に審判者さんが待っていたものが来たら、絶対に下に来てね！" },
+                        { "time": 46240, "name": "<color=#E94444>フェイル</color>", "duration": 2.32, "dialog": "ええー、プレイちゃん…絶対にまた来なきゃって…そうしないと、私と審判者さんは寂しく石になってしまうかもしれない…" },
+                        { "time": 49600, "name": "<color=#3D3388>プレイ</color>", "duration": 0.76, "dialog": "えっ…うん、必ず戻ってくるよ！" },
+                        { "time": 51400, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 52120, "name": " ", "duration": 2.55, "dialog": "フェイルは結局、学校が終わるまで下に降りてこなかったし、屋上に戻って審判者さんと一緒に3人で待ってみたけど、何も起こらなかった。" },
+                        { "time": 55800, "name": " ", "duration": 2.34, "dialog": "審判者さんが興味を失ったように屋上を去った後、ペイルも楽しかったと言いながら僕と一緒に場所を離れた。" },
+                        { "time": 59180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_mission_loop",
+            "audios": [ ],
+            "images": [
+                {   "filename": "img_mission_loop_1_1", "time": 2000, "position": { "x": -735, "y": 342, "z": 0 }, "duration": 6280, "hideTime": 0 }
+            ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 5400, "name": "<color=#44B8E9>LENA</color>", "duration": 1.44, "dialog": "<size=34>It seems like Darly is just asleep.</size>" },
+                        { "time": 7900, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 8600, "name": "<color=#F57E7E>ROPHE</color>", "duration": 2.66, "dialog": "<size=34>Thank you so much for your help. Senior Darly tends to fall asleep suddenly a lot... It seems we've caused you worry.</size>" },
+                        { "time": 11980, "name": "<color=#44B8E9>LENA</color>", "duration": 3.08, "dialog": "<size=34>Darly falling asleep suddenly is not uncommon. Since Rophe is always there to take care of her,  I think there's no need to worry.</size>" },
+                        { "time": 16100, "name": " ", "duration": 3.1, "dialog": "<size=34>Even though I helped Rophe bring Darly, who had collapsed in the hallway, to the nurse's office, nobody seemed to be surprised.</size>" },
+                        { "time": 19900, "name": " ", "duration": 1.74, "dialog": "<size=34>It appears that Darly collapsing suddenly is a frequent occurrence.</size>" },
+                        { "time": 22340, "name": " ", "duration": 2.76, "dialog": "<size=34>Darly and Rophe are recognized best friends. They're always together outside class hours, and there are even rumors that they live together.</size>" },
+                        { "time": 25800, "name": " ", "duration": 2.76, "dialog": "<size=34>Although they are a mysterious couple and I haven't asked for details, what exactly is their relationship...?</size>" },
+                        { "time": 29280, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 29980, "name": "<color=#44B8E9>LENA</color>", "duration": 2.76, "dialog": "<size=34>Oh my-? It looks like your face is getting redder, maybe we should take your temperature?</size>" },
+                        { "time": 33440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34100, "name": "<color=#44B8E9>LENA</color>", "duration": 2.1, "dialog": "<size=34>Taking your temperature won't hurt at all Don't be shy, come on</size>" },
+                        { "time": 36900, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 37600, "name": "<color=#3D3388>PLAY</color>", "duration": 1.44, "dialog": "<size=34>Ah, but I'm really okay, teacher...!</size>" },
+                        { "time": 39780, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 42720, "name": " ", "duration": 2.08, "dialog": "<size=34>My temperature turned out to be quite high, and eventually, I ended up lying down right next to Darly.</size>" },
+                        { "time": 45500, "name": " ", "duration": 2.8, "dialog": "<size=34>Listening to the sweet voice of Ms. Lena chatting leisurely with Rophe, I unknowingly drifted off to sleep as well.</size>" },
+                        { "time": 49340, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 5400, "name": "<color=#44B8E9>레나</color>", "duration": 1.44, "dialog": "달리 학생은 단순히 잠든 것 같아요." },
+                        { "time": 7900, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 8600, "name": "<color=#F57E7E>로페</color>", "duration": 2.66, "dialog": "도와줘서 정말 고마워, 달리 선배는 갑자기<br>잠드는 일이 많아서... 걱정을 끼친 것 같네." },
+                        { "time": 11980, "name": "<color=#44B8E9>레나</color>", "duration": 3.08, "dialog": "달리 학생이 갑자기 잠드는 건 자주 있는 일이랍니다.<br>언제나처럼 로페 학생이 돌봐주고 있으니 걱정하지 않아도 될 것 같아요." },
+                        { "time": 16100, "name": " ", "duration": 3.1, "dialog": "복도에서 쓰러진 달리 선배를 부축하고 끙끙거리고<br>있는 로페를 도와 양호실로 왔지만, 아무도 놀란 것 같지 않다." },
+                        { "time": 19900, "name": " ", "duration": 1.74, "dialog": "아무래도 달리 선배가 갑자기 쓰러지는 일은 자주 있는 일인 것 같다." },
+                        { "time": 22340, "name": " ", "duration": 2.76, "dialog": "달리 선배랑 로페는 공인된 단짝이다.<br>수업 시간 외엔 항상 같이 있고, 심지어 같이 산다는 소문도 있다." },
+                        { "time": 25800, "name": " ", "duration": 2.76, "dialog": "신비로운 커플이라 자세한 건 물어보지 못했지만,<br>도대체 둘은 무슨 사이인 걸까...?" },
+                        { "time": 29280, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 29980, "name": "<color=#44B8E9>레나</color>", "duration": 2.76, "dialog": "어머나-? 플레이 학생이야말로 얼굴이 점점 붉어지는 것 같은데,<br>체온을 재보는 게 어떨까요?" },
+                        { "time": 33440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34100, "name": "<color=#44B8E9>레나</color>", "duration": 2.1, "dialog": "체온을 재는 건 전혀 아프지 않답니다~<br>부끄러워 말고, 자~" },
+                        { "time": 36900, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 37600, "name": "<color=#3D3388>플레이</color>", "duration": 1.44, "dialog": "앗, 선생님 전 아무렇지 않은데요....!" },
+                        { "time": 39780, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 42720, "name": " ", "duration": 2.08, "dialog": "체온은 굉장히 높게 나왔고, 달리 선배 옆자리에<br>나까지 나란히 눕게 되었다." },
+                        { "time": 45500, "name": " ", "duration": 2.8, "dialog": "로페와 도란도란 이야기를 나누는 레나 선생님의 예쁜 목소리에,<br>나도 모르게 스르르 잠이 들어버렸다." },
+                        { "time": 49340, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 5400, "name": "<color=#44B8E9>レナ </color>", "duration": 1.44, "dialog": "ダーリーさんは単に寝ているようです。" },
+                        { "time": 7900, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 8600, "name": "<color=#F57E7E>ローペ</color>", "duration": 2.66, "dialog": "助けてくれて本当にありがとう。ダーリー先輩は急に寝ることが多くて…迷惑をかけたみたいで。" },
+                        { "time": 11980, "name": "<color=#44B8E9>レナ </color>", "duration": 3.08, "dialog": "ダーリーさんが急に眠ることは、よくあることだそうです。いつも通りローペさんが面倒を見てくれているから、心配しなくても大丈夫だと思います。" },
+                        { "time": 16100, "name": " ", "duration": 3.1, "dialog": "廊下で倒れたダーリー先輩を支えてうめいているローペを手伝って保健室に来たけど、誰も驚いているようには見えないね。" },
+                        { "time": 19900, "name": " ", "duration": 1.74, "dialog": "どうやらダーリー先輩が急に倒れることは、よくあることのようだ。" },
+                        { "time": 22340, "name": " ", "duration": 2.76, "dialog": "ダーリー先輩とローペは公認の親友だ。授業時間以外はいつも一緒にいて、実は一緒に住んでいるという噂もある。" },
+                        { "time": 25800, "name": " ", "duration": 2.76, "dialog": "神秘的なカップルなので詳しいことは聞けなかったけど、一体二人はどんな関係なんだろう…？" },
+                        { "time": 29280, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 29980, "name": "<color=#44B8E9>レナ </color>", "duration": 2.76, "dialog": "あらまあ-？プレイさんの顔が段々と赤くなっているみたいだけど、体温を測ってみるのはどうかしら？" },
+                        { "time": 33440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34100, "name": "<color=#44B8E9>レナ </color>", "duration": 2.1, "dialog": "体温を測るのは全然痛くないですよ〜恥ずかしがらずに、さあ〜" },
+                        { "time": 36900, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 37600, "name": "<color=#3D3388>プレイ</color>", "duration": 1.44, "dialog": "あっ、先生、私は全然平気です…！" },
+                        { "time": 39780, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 42720, "name": " ", "duration": 2.08, "dialog": "体温はかなり高く出て、ダーリー先輩の隣のベッドに私も並んで横になることになった。" },
+                        { "time": 45500, "name": " ", "duration": 2.8, "dialog": "ローペ と楽しく話をしているレナ先生の美しい声に、いつの間にかスルスルと眠ってしまった。" },
+                        { "time": 49340, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_collection_loop",
+            "audios": [ ],
+            "images": [
+                {   "filename": "img_collection_loop_1_1", "time": 2000, "position": { "x": -735, "y": 342, "z": 0 }, "duration": 6900, "hideTime": 0 }
+            ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 1040, "name": "<color=#3D3388>PLAY</color>", "duration": 3.32, "dialog": "<size=34>Uh... hello? Your name was... Diein, right? That... crow, is it? It’s really cute...</size>" },
+                        { "time": 5500, "name": "<color=#C2275A>DIEIN</color>", "duration": 2, "dialog": "<size=34>...... ....... ...... Hello.</size>" },
+                        { "time": 8540, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9220, "name": " ", "duration": 1.64, "dialog": "<size=34>The silence that followed until the new student responded felt eternal.</size>" },
+                        { "time": 11580, "name": " ", "duration": 1.98, "dialog": "<size=34>I didn’t want to intrude, but there was a man who looked quite dangerous eyeing the new student, and</size>" },
+                        { "time": 14280, "name": " ", "duration": 2.32, "dialog": "<size=34>I felt the need to show that man that the new student had company.</size>" },
+                        { "time": 17300, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 18000, "name": "<color=#3D3388>PLAY</color>", "duration": 1.34, "dialog": "<size=34>Uh.. by any chance, do you know that man over there?</size>" },
+                        { "time": 20040, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20740, "name": "<color=#C2275A>DIEIN</color>", "duration": 2.32, "dialog": "<size=34>..... ..... ..... Do you also think I look pathetic?</size>" },
+                        { "time": 23780, "name": "<color=#3D3388>PLAY</color>", "duration": 0.32, "dialog": "<size=34>Huh??!</size>" },
+                        { "time": 24800, "name": "<color=#C2275A>DIEIN</color>", "duration": 2.34, "dialog": "<size=34>..... ..... ..... That person looked at me and said, \"How pitiful.\"</size>" },
+                        { "time": 27840, "name": "<color=#3D3388>PLAY</color>", "duration": 2, "dialog": "<size=34>Huh? No no! Not at all, I thought you were very pretty!? What a weird person.</size>" },
+                        { "time": 30540, "name": " ", "duration": 2.32, "dialog": "<size=34>Caught off guard by the difficult question, my genuine but unnecessary thoughts slipped out.</size>" },
+                        { "time": 33580, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34280, "name": "<color=#C2275A>DIEIN</color>", "duration": 2.66, "dialog": "<size=34>..... ..... ..... Thank you... So I am pretty…</size>" },
+                        { "time": 37980, "name": "<color=#C2275A>DIEIN</color>", "duration": 1.98, "dialog": "<size=34>Do you like crows or snakes?</size>" },
+                        { "time": 41000, "name": "<color=#3D3388>PLAY</color>", "duration": 2.66, "dialog": "<size=34>Cro... crows and snakes? I haven’t thought about it deeply... If I had to say, maybe I don’t dislike them?!</size>" },
+                        { "time": 44700, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 45420, "name": " ", "duration": 3.32, "dialog": "<size=34>After an immensely slow conversation, I suddenly looked for that man again, but he had disappeared into nowhere.</size>" },
+                        { "time": 50100, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 1040, "name": "<color=#3D3388>플레이</color>", "duration": 3.32, "dialog": "어... 안녕? 이름이... 다인이었나?     <br>그... 까마귀인가? 정말 귀엽네 ..." },
+                        { "time": 5500, "name": "<color=#C2275A>다인</color>", "duration": 2, "dialog": "...... ....... ...... 안녕." },
+                        { "time": 8540, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9220, "name": " ", "duration": 1.64, "dialog": "전학생의 대답이 나올 때까지 영원처럼 느껴지는 정적이었다." },
+                        { "time": 11580, "name": " ", "duration": 1.98, "dialog": "방해하지 않으려고 했지만, 굉장히<br>위험해 보이는 남자가 전학생을 주시하고 있었고," },
+                        { "time": 14280, "name": " ", "duration": 2.32, "dialog": "전학생에게 일행이 있다는 걸<br>그 남자에게 보여줘야 한다는 생각이 들었다." },
+                        { "time": 17300, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 18000, "name": "<color=#3D3388>플레이</color>", "duration": 1.34, "dialog": "어.. 혹시 저기 저 아저씨 아는 사람?" },
+                        { "time": 20040, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20740, "name": "<color=#C2275A>다인</color>", "duration": 2.32, "dialog": "..... ..... ..... 너도 내가 꼴사납다고 생각해?" },
+                        { "time": 23780, "name": "<color=#3D3388>플레이</color>", "duration": 0.32, "dialog": "응??!" },
+                        { "time": 24800, "name": "<color=#C2275A>다인</color>", "duration": 2.34, "dialog": "..... ..... ..... 저 사람 날 보더니 \"꼴사납군\"이라고 했어." },
+                        { "time": 27840, "name": "<color=#3D3388>플레이</color>", "duration": 2, "dialog": "응? 아니 아니! 전혀, 난 굉장히 예쁘다고 생각했는데!?<br>정말 이상한 사람이네." },
+                        { "time": 30540, "name": " ", "duration": 2.32, "dialog": "흐름을 따라가기 힘든 질문에,<br>나도 모르게 쓸데없는 본심이 섞여 나와버렸다." },
+                        { "time": 33580, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34280, "name": "<color=#C2275A>다인</color>", "duration": 2.66, "dialog": "..... ..... ..... 고마워 ..... 난 예쁘구나...." },
+                        { "time": 37980, "name": "<color=#C2275A>다인</color>", "duration": 1.2, "dialog": "까마귀나 뱀... 좋아해?" },
+                        { "time": 41000, "name": "<color=#3D3388>플레이</color>", "duration": 2.66, "dialog": "까..까마귀..랑 뱀? 깊이 생각해 본 적은 없는데...<br>굳이 말하자면 싫어하진 않는 쪽일까?!" },
+                        { "time": 44700, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 45420, "name": " ", "duration": 3.32, "dialog": "느리지만 굉장한 대화를 나누다, 문득 다시 그 남자를 찾았지만,<br>어디론가 사라져 버리고 없었다." },
+                        { "time": 50100, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 1040, "name": "<color=#3D3388>プレイ</color>", "duration": 3.32, "dialog": "えっ…こんにちは？名前は…ダインだったかな？あの…カラスかな？本当にかわいいね…" },
+                        { "time": 5500, "name": "<color=#C2275A>ダイン</color>", "duration": 2, "dialog": "…… …… …… こんにちは。" },
+                        { "time": 8540, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9220, "name": " ", "duration": 1.64, "dialog": "転校生の答えが出るまで、永遠のように感じられる静寂だった。" },
+                        { "time": 11580, "name": " ", "duration": 1.98, "dialog": "邪魔をしないつもりだったけど、とても危険そうに見える男が転校生をじっと見ていて、" },
+                        { "time": 14280, "name": " ", "duration": 2.32, "dialog": "転校生に仲間がいることをその男に示さなければならないと思った。" },
+                        { "time": 17300, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 18000, "name": "<color=#3D3388>プレイ</color>", "duration": 1.34, "dialog": "あの…もしかして、あのおじさん知ってる人？" },
+                        { "time": 20040, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20740, "name": "<color=#C2275A>ダイン</color>", "duration": 2.32, "dialog": "…… …… …… 君も、僕がみすぼらしいと思う？" },
+                        { "time": 23780, "name": "<color=#3D3388>プレイ</color>", "duration": 0.32, "dialog": "え？！" },
+                        { "time": 24800, "name": "<color=#C2275A>ダイン</color>", "duration": 2.34, "dialog": "…… …… …… あの人、僕を見て「見苦しい」と言ったんだ。" },
+                        { "time": 27840, "name": "<color=#3D3388>プレイ</color>", "duration": 2, "dialog": "え？いやいや！全然、僕はとてもきれいだと思ったけど！？本当に変な人だね。" },
+                        { "time": 30540, "name": " ", "duration": 2.32, "dialog": "流れについていくのが難しい質問に、知らず知らずのうちに余計な本心が混ざって出てしまった。" },
+                        { "time": 33580, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 34280, "name": "<color=#C2275A>ダイン</color>", "duration": 2.66, "dialog": "…… …… …… ありがとう…… 僕はきれいなんだね……" },
+                        { "time": 37980, "name": "<color=#C2275A>ダイン</color>", "duration": 1.98, "dialog": "カラスやヘビ…好き？" },
+                        { "time": 41000, "name": "<color=#3D3388>プレイ</color>", "duration": 2.66, "dialog": "カ..カラスとヘビ？深く考えたことはなかったけど…どちらかと言えば、嫌いじゃないかな？！" },
+                        { "time": 44700, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 45420, "name": " ", "duration": 3.32, "dialog": "ゆっくりとだけど、素晴らしい会話をしていた。ふとまたあの男を探したけれど、どこかへ消えてしまっていた。" },
+                        { "time": 50100, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_rank_loop",
+            "audios": [ ],
+            "images": [
+                {   "filename": "img_rank_loop_1_1", "time": 2000, "position": { "x": -735, "y": 342, "z": 0 }, "duration": 6000, "hideTime": 0 }
+            ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 5400, "name": "<color=#B879E4>ERA</color>", "duration": 1.76, "dialog": "<size=34>Who're you? The captain and coach aren't in today, y'see~?</size>" },
+                        { "time": 8000, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 8680, "name": "<color=#3D3388>PLAY</color>", "duration": 3.32, "dialog": "<size=34>Ah! Yes, the security guard mentioned that there wasn’t supposed to be archery practice today, and asked me to check if anyone was here practicing!</size>" },
+                        { "time": 12800, "name": "<color=#B879E4>ERA</color>", "duration": 1.76, "dialog": "<size=34>Is that so~? I was planning to practice a bit more, is that alright?</size>" },
+                        { "time": 15400, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 16000, "name": "<color=#3D3388>PLAY</color>", "duration": 2, "dialog": "<size=34>But the lock on the archery range was broken.....</size>" },
+                        { "time": 19040, "name": "<color=#B879E4>ERA</color>", "duration": 2.42, "dialog": "<size=34>Ah I've not been here long, you see. Without a key, I gave it a slight tug and it just ended up that way.</size>" },
+                        { "time": 22180, "name": "<color=#B879E4>ERA</color>", "duration": 1.76, "dialog": "<size=34>Well, don't fuss about the little things~</size>" },
+                        { "time": 24640, "name": "<color=#3D3388>PLAY</color>", "duration": 1.32, "dialog": "<size=34>Little things, you say...?</size>" },
+                        { "time": 26680, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 27340, "name": " ", "duration": 3, "dialog": "<size=34>As if it were nothing, she soon focused back on shooting her arrows. Watching each arrow hit the bull's-eye, I found myself mesmerised.</size>" },
+                        { "time": 31040, "name": " ", "duration": 2.32, "dialog": "<size=34>I'd heard a tremendous archery athlete transferred from the countryside, and it seems like it must be this lass.</size>" },
+                        { "time": 34080, "name": "<color=#B879E4>ERA</color>", "duration": 0.42, "dialog": "<size=34>Eh? Did you call?</size>" },
+                        { "time": 35540, "name": "<color=#3D3388>PLAY</color>", "duration": 1.32, "dialog": "<size=34>Huh? I didn’t say anything...</size>" },
+                        { "time": 37580, "name": "<color=#B879E4>ERA</color>", "duration": 2.08, "dialog": "<size=34>Is that right, peculiar~ I could've sworn someone called... with an absolutely lovely voice!</size>" },
+                        { "time": 40380, "name": " ", "duration": 3.32, "dialog": "<size=34>Hearing her say she heard a voice when we were the only two around was a bit eerie, but seeing her concentrate once more made me feel at ease again.</size>" },
+                        { "time": 45400, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 5400, "name": "<color=#B879E4>에라</color>", "duration": 1.76, "dialog": "누구세요? 오늘은 부장이랑 쌤이 없는데예~?" },
+                        { "time": 8000, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 8680, "name": "<color=#3D3388>플레이</color>", "duration": 3.32, "dialog": "앗! 넵, 경비아저씨가 오늘 양궁부 연습이 없는 날인데,<br>누가 연습하는지 좀 확인해 달라고 하셔서요!" },
+                        { "time": 12800, "name": "<color=#B879E4>에라</color>", "duration": 1.76, "dialog": "맞나~? 내는 아직 좀 더 연습하다 갈라하는데, 괜찮나?" },
+                        { "time": 15400, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 16000, "name": "<color=#3D3388>플레이</color>", "duration": 2, "dialog": "그런데 양궁장 자물쇠가 부서져 있었는데요....." },
+                        { "time": 19040, "name": "<color=#B879E4>에라</color>", "duration": 2.42, "dialog": "아~ 내가 전학온지 얼마 안돼가꼬~<br>열쇠가 없어가 살짝 잡아 땡깃더니 그래 돼 뿌데." },
+                        { "time": 22180, "name": "<color=#B879E4>에라</color>", "duration": 1.76, "dialog": "뭐, 사소한 부분은 신경쓰지 말그레이~" },
+                        { "time": 24640, "name": "<color=#3D3388>플레이</color>", "duration": 1.32, "dialog": "사..사소한 부분인가요...?" },
+                        { "time": 26680, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 27340, "name": " ", "duration": 3, "dialog": "정말 별일 아닌 듯, 그녀는 곧 화살을 쏘는 데 집중했다.<br>화살마다 여지없이 과녁 중앙에 꽂히는 모습에, 홀린 듯 구경하고 있었다." },
+                        { "time": 31040, "name": " ", "duration": 2.32, "dialog": "지방에서 굉장한 양궁선수가 전학 왔다고 들었는데,<br>아무래도 이 언니인 것 같다." },
+                        { "time": 34080, "name": "<color=#B879E4>에라</color>", "duration": 0.42, "dialog": "응? 불렀나?" },
+                        { "time": 35540, "name": "<color=#3D3388>플레이</color>", "duration": 1.32, "dialog": "네? 전 아무 말도 안 했는데요 ..." },
+                        { "time": 37580, "name": "<color=#B879E4>에라</color>", "duration": 2.08, "dialog": "맞나, 희한하네~ 분명히 누가 불렀는데....억수로 예쁜 목소리였다!" },
+                        { "time": 40380, "name": " ", "duration": 3.32, "dialog": "둘밖에 없는 양궁장에서 목소리를 들었다고 하니 조금 무서워졌지만,<br>이내 집중하는 그녀를 보니 나도 다시 마음이 편안해졌다." },
+                        { "time": 45400, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 5400, "name": "<color=#B879E4>エラ</color>", "duration": 1.76, "dialog": "誰やねん？今日は部長も担当の先生もおらへんけど。" },
+                        { "time": 8000, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 8680, "name": "<color=#3D3388>プレイ</color>", "duration": 3.32, "dialog": "あっ！はい。警備員さんから今日はアーチェリー部の練習がない日なので、誰が練習しているか確認してほしいと言われたんです。" },
+                        { "time": 12800, "name": "<color=#B879E4>エラ</color>", "duration": 1.76, "dialog": "あ、そうなん？もうちょっと練習しようとしとるんやけど、大丈夫かな？" },
+                        { "time": 15400, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 16000, "name": "<color=#3D3388>プレイ</color>", "duration": 2, "dialog": "でもアーチェリー場のカギが壊れていたんですけど。。" },
+                        { "time": 19040, "name": "<color=#B879E4>エラ</color>", "duration": 2.42, "dialog": "ほんまやなぁ。ウチ、転校してきたばっかで、鍵なくてちょっと引っ張ったら、そうなっちゃったの。" },
+                        { "time": 22180, "name": "<color=#B879E4>エラ</color>", "duration": 1.76, "dialog": "まぁ、ちょっとしたことやから気にせんといて" },
+                        { "time": 24640, "name": "<color=#3D3388>プレイ</color>", "duration": 1.32, "dialog": "ち。。ちょっとしたことですか。。。？" },
+                        { "time": 26680, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 27340, "name": " ", "duration": 3, "dialog": "彼女は何事もなかったかのように矢を射ち込むことに集中した。矢ごとに的の中央に射ち込む姿に、見とれていた。" },
+                        { "time": 31040, "name": " ", "duration": 2.32, "dialog": "地方からすばらしいアーチェリー選手が転校してきたと聞いていたが、やはりこの先輩みたいだ。" },
+                        { "time": 34080, "name": "<color=#B879E4>エラ</color>", "duration": 0.42, "dialog": "うん？呼んだ？なんや、用事あんの？" },
+                        { "time": 35540, "name": "<color=#3D3388>プレイ</color>", "duration": 1.32, "dialog": "え？私、何も言ってないんですけど…" },
+                        { "time": 37580, "name": "<color=#B879E4>エラ</color>", "duration": 2.08, "dialog": "そう？不思議やなぁ〜。誰かが呼んだんやけど、、めっちゃ綺麗な声やった！" },
+                        { "time": 40380, "name": " ", "duration": 3.32, "dialog": "二人しかいないアーチェリー場で誰かの声を聴いたと言われると、少し怖かったが、すぐに集中する彼女を見て、私もまた落ち着いた。" },
+                        { "time": 45400, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "datas": 
+    [
+        {
+            "loop_vid_name": "mode_air_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_air_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_freestyle_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_freestyle_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_online_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_online_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_mission_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_mission_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_collection_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_collection_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_rank_loop_1",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        },
+        {
+            "loop_vid_name": "mode_rank_loop_2",
+            "after_delay": 1000,
+            "after_image": "loop_loading"
+        }
+    ]
+}

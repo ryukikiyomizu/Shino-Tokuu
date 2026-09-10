@@ -1,0 +1,530 @@
+{
+    "defines": {
+        "textNameData": {
+            "x": -683,
+            "y": -343,
+            "width": 500,
+            "height": 100,
+            "fontSize": 42,
+            "spacingCharacter": -5,
+            "spacingWord": 0.0,
+            "spacingLine": 0.0,
+            "spacingParagraph": 0.0
+        },
+        "textDialogData": {
+            "x": -683,
+            "y": -501,
+            "width": 1400,
+            "height": 185,
+            "fontSize": 38,
+            "spacingCharacter": 0.7,
+            "spacingWord": -3.0,
+            "spacingLine": 0,
+            "spacingParagraph": 27
+        }
+    },
+    
+    "datas": 
+    [
+        {
+            "loop_vid_name": "mode_freestyle_loop",
+            "audios": [ ],
+            "images": [ ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 2.68, "dialog": "<size=32>Prompted by Fail to visit Treasure Island, we found ourselves on a deserted island, gazing blankly at the sea when we realized that none of us had brought any food.</size>" },
+                        { "time": 4000, "name": "<color=#FCBD39>Clear</color>", "duration": 1.98, "dialog": "<size=32>Ugh...! Augh!... Darn...! I said... don't underestimate me!!!</size>" },
+                        { "time": 7340, "name": " ", "duration": 2.34, "dialog": "<size=32>Clear's scream echoed across the beach. Having jumped into the water without any warm-up to catch fish with her bare hands, it seemed like she got a cramp in her leg.</size>" },
+                        { "time": 11440, "name": "<color=#BDCEF6>Play</color>", "duration": 1.30, "dialog": "<size=32>Uh... Clear, it looks like you've got a cramp in your leg. Do you need help?</size>" },
+                        { "time": 13800, "name": "<color=#FCBD39>Clear</color>", "duration": 1.34, "dialog": "<size=32>Ugh... No!! I can overcome a cramp like this with grit and... Aaargh!!! determination!!!</size>" },
+                        { "time": 16180, "name": " ", "duration": 2.26, "dialog": "<size=32>Although she said she was fine, Clear's face was already drenched in tears, and she couldn’t move from where she was seated.</size>" },
+                        { "time": 19500, "name": "<color=#BDCEF6>Play</color>", "duration": 1.60, "dialog": "<size=32>Uh... Clear, if you stay like this, things could get worse. Let me try.</size>" },
+                        { "time": 22180, "name": "<color=#FCBD39>Clear</color>", "duration": 2.02, "dialog": "<size=32>Ah... No...!! Don't touch me…Ugh...!... Aaaaaargh!!!</size>" },
+                        { "time": 25240, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 25980, "name": " ", "duration": 2.24, "dialog": "<size=32>Holding Clear's immobile foot, I did what I saw on the internet and wrapped my hand around the entire sole of her foot, then slowly pulled it upward towards the instep.</size>" },
+                        { "time": 29240, "name": "<color=#FCBD39>Clear</color>", "duration": 2.00, "dialog": "<size=32>Ugh!!! Augh...! Ugh... Ah... Ah...</size>" },
+                        { "time": 32300, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 33040, "name": " ", "duration": 2.94, "dialog": "<size=32>Clear's scream gradually faded, and her stiffened foot and toes slowly regained flexibility. Once the cramp had subsided, Clear stood up unsteadily, her face still tear-streaked.</size>" },
+                        { "time": 38380, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 39080, "name": "<color=#BDCEF6>Play</color>", "duration": 1.70, "dialog": "<size=32>Meow Meow Congrats, Clear. You look like the Little Mermaid who just learned to walk with her brand new legs!</size>" },
+                        { "time": 41780, "name": "<color=#FCBD39>Clear</color>", "duration": 2.66, "dialog": "<size=32>What? Sniff... Hmph, don't get cocky! That would make you the evil octopus witch!! Just you wait... I'll catch a bigger... Sob... fish, and... Sob...</size>" },
+                        { "time": 45800, "name": "<color=#FCBD39>Clear</color>", "duration": 1.64, "dialog": "<size=32>I'll show you... Hwaaahhhhh!!!</size>" },
+                        { "time": 49180, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 49900, "name": " ", "duration": 2.28, "dialog": "<size=32>Even though Clear managed to catch fish with both hands despite the cramp, she started crying for a while, seemingly unsatisfied with the size of her catch.</size>" },
+                        { "time": 53900, "name": " ", "duration": 2.30, "dialog": "<size=32>When we told Clear that her catch would be more than enough to fill us all and hugged her tightly, praising her for her effort, only then did Clear finally stop crying.</size>" },
+                        { "time": 58280, "name": " ", "duration": 0, "dialog": " " }
+
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 2.68, "dialog": "보물섬에 가자는 페일에 이끌려 무인도로 놀러 오게 된 우리들은, 아무도 먹을 것을 챙겨오지 않았다는 사실을 깨닫고 멍하니 바닷가만 바라보고 있었다." },
+                        { "time": 4000, "name": "<color=#FCBD39>클리어</color>", "duration": 1.98, "dialog": "악....!... 윽!... 제길.... 잇! 얕보지 말라고!!!" },
+                        { "time": 7340, "name": " ", "duration": 2.34, "dialog": "클리어의 비명 같은 기합 소리가 해변에 울려 퍼졌다. 맨손으로 물고기를 잡아 보이겠다고 준비운동도 없이 물에 뛰어든 나머지 다리에 쥐가 난 모양이다." },
+                        { "time": 11440, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.30, "dialog": "저... 클리어, 발에 쥐가 난 것 같은데 도와줄까?" },
+                        { "time": 13800, "name": "<color=#FCBD39>클리어</color>", "duration": 1.34, "dialog": "악.... 아니!! 이 정도 쥐는 근성과... 아악!!! 기합으로 이겨낼 수 있다고!!!" },
+                        { "time": 16180, "name": " ", "duration": 2.26, "dialog": "말로는 괜찮다고 하지만 클리어의 얼굴은 이미 눈물범벅에, 주저앉은 자리에서 옴짝달싹도 하지 못하고 있었다." },
+                        { "time": 19500, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.60, "dialog": "저.. 클리어, 이대로는 정말 큰일 날 것 같아. 내가 해볼게." },
+                        { "time": 22180, "name": "<color=#FCBD39>클리어</color>", "duration": 2.02, "dialog": "아..... 안돼.....!! 손대지마........악...!.....으아아아아아아아악!!!!!!!" },
+                        { "time": 25240, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 25980, "name": " ", "duration": 2.24, "dialog": "꼼짝 못 하는 클리어의 발을 잡고, 인터넷에서 본 것처럼 손으로 발바닥 전체를 감싼 후 발등 쪽으로 천천히 끌어올렸다." },
+                        { "time": 29240, "name": "<color=#FCBD39>클리어</color>", "duration": 2.00, "dialog": "악!!! 아악...! 악.... 아아아...... 아...... 아 으아앙..." },
+                        { "time": 32300, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 33040, "name": " ", "duration": 2.94, "dialog": "클리어의 비명 소리가 점점 잦아들더니, 돌처럼 굳어있던 발과 발가락이 천천히 부드러워졌다. 쥐가 풀렸는지 눈물범벅의 클리어는 비척비척 일어섰다." },
+                        { "time": 38380, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 39080, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.70, "dialog": "야옹~ 야옹~ 축하해! 클리어. 마치 처음 다리가 생기고 걷게 된 인어공주님 같네!" },
+                        { "time": 41780, "name": "<color=#FCBD39>클리어</color>", "duration": 2.66, "dialog": "뭐? 훌쩍... 흥, 우쭐대지 말라고! 그럼 넌 사악한 문어 마녀 같아!! 두고봐....... 더 큰... 흑.... 물고기를.... 힝... 잡아서.......!" },
+                        { "time": 45800, "name": "<color=#FCBD39>클리어</color>", "duration": 1.64, "dialog": "본때를...... 힝.... 흐아아아아아아아아아앙~~~~~!!" },
+                        { "time": 49180, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 49900, "name": " ", "duration": 2.28, "dialog": "쥐가 난 와중에도 물고기를 양손에 잡아들고 나온 클리어였지만, 잡은 물고기의 크기가 성에 차지 않았는지 그렇게 한동안 엉엉 울었다." },
+                        { "time": 53900, "name": " ", "duration": 2.30, "dialog": "그 정도면 우리 모두 배불리 먹고 남을 것 같다고 다 같이 클리어를 꼬옥 안아주고 대단하다고 말하자, 클리어는 겨우 울음을 멈췄다." },
+                        { "time": 58280, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 2.68, "dialog": "<size=34>宝島に行こうというフェイルに連れられて無人島に遊びに来た私たちは、誰も食べ物を持ってこなかったという事実に気づき、ぼんやりと海辺だけを眺めていた。</size>" },
+                        { "time": 4000, "name": "<color=#FCBD39>クリア</color>", "duration": 1.98, "dialog": "<size=34>あっ…！くっ...くそっ...いっ…！なめるなよ！</size>" },
+                        { "time": 7340, "name": " ", "duration": 2.34, "dialog": "<size=34>クリアの悲鳴のような気合いの音が浜辺に響き渡った。 素手で魚を捕まえようと準備運動もなしに水に飛び込んだあまり、足がつったようだ。</size>" },
+                        { "time": 11440, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.30, "dialog": "<size=34>あの…クリアちゃん、足がつったみたいだけど 手伝ってあげようか？</size>" },
+                        { "time": 13800, "name": "<color=#FCBD39>クリア</color>", "duration": 1.34, "dialog": "<size=34>あっ…いや！！ このくらいは根性と···ああっ！気合で勝ち抜くことができるんだよ！！！</size>" },
+                        { "time": 16180, "name": " ", "duration": 2.26, "dialog": "<size=34>口では大丈夫だと言うが、クリアの顔はすでに涙まみれで、座り込んだ席で身動きもできずにいた。</size>" },
+                        { "time": 19500, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.60, "dialog": "<size=34>クリアちゃん、このままでは本当に大変なことになりそう。 私がやってみる。</size>" },
+                        { "time": 22180, "name": "<color=#FCBD39>クリア</color>", "duration": 2.02, "dialog": "<size=34>あ、ダメ！触るな！あっ！ひやああああああああッッッ！！！</size>" },
+                        { "time": 25240, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 25980, "name": " ", "duration": 2.24, "dialog": "<size=34>身動きできないクリアの足をつかみ、ネット上で見たように手で足の裏全体を包み込み、足の甲の方にゆっくりと引き上げた。</size>" },
+                        { "time": 29240, "name": "<color=#FCBD39>クリア</color>", "duration": 2.00, "dialog": "<size=34>ぎゃああ!!! あっ...! ぎゃあっ.... ああ...... あ...... わああん...</size>" },
+                        { "time": 32300, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 33040, "name": " ", "duration": 2.94, "dialog": "<size=34>クリアの悲鳴がだんだんおさまり、石のように固まっていた足と足の指がゆっくりと柔らかくなった。 痙攣が解けたのか、涙まみれのクリアはふらふらと立ち上がった。</size>" },
+                        { "time": 38380, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 39080, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.70, "dialog": "<size=34>やった~やった~おめでとう！クリアちゃん、まるで初めて足ができて歩く人魚姫みたいだね！</size>" },
+                        { "time": 41780, "name": "<color=#FCBD39>クリア</color>", "duration": 2.66, "dialog": "<size=34>はあ？ ひっく… ふん、調子に乗らないでよ！ あんたなんか邪悪なタコの魔女みたい！！ 見てなさいよ…… もっと大きな… ひっ… 魚を… ふん… 捕まえてやるんだから…！</size>" },
+                        { "time": 45800, "name": "<color=#FCBD39>クリア</color>", "duration": 1.64, "dialog": "<size=34>思い知らせてやる…… ひん… ふあああああああああん~~~~~!!</size>" },
+                        { "time": 49180, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 49900, "name": " ", "duration": 2.28, "dialog": "<size=34>足がつってしまった中でも、両手に魚を掴んで戻ってきたクリアだったが、捕まえた魚の大きさが気に入らなかったのか、しばらくの間えんえんと泣いていた。</size>" },
+                        { "time": 53900, "name": " ", "duration": 2.30, "dialog": "<size=34>それでも、みんなで「それだけあれば、お腹いっぱい食べられるし、まだ余るよ」と言いながら、クリアをぎゅっと抱きしめて「すごいね」と褒めると、クリアはやっと泣き止んだ。</size>" },
+                        { "time": 58280, "name": " ", "duration": 0, "dialog": " " }             
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_online_loop",
+            "audios": [ ],
+            "images": [ ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#E13032>Fail</color>", "duration": 1.64, "dialog": "<size=32>Ta-da~ This is the treasure ship of Lulu Island~</size>" },
+                        { "time": 3380, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 4940, "name": " ", "duration": 2.26, "dialog": "<size=32>Wearing a pirate hat and eye patch that appeared from somewhere, Fail led us to an actual wrecked pirate ship.</size>" },
+                        { "time": 8680, "name": " ", "duration": 1.90, "dialog": "<size=32>Inside the broken ship, there were camping supplies like tubes and other water play equipment, a tent, and portable cooking gear.</size>" },
+                        { "time": 12000, "name": "<color=#E13032>Fail</color>", "duration": 1.88, "dialog": "<size=32>How's this? Amazing, right? Mr.Judgement and I found all of this by following this treasure map.</size>" },
+                        { "time": 15380, "name": " ", "duration": 3.04, "dialog": "<size=32>Ignoring how Mr.Judgement even got here with Fail, it was hard to understand why there was a pirate ship in such a place and why it was filled with camping supplies.</size>" },
+                        { "time": 20100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20800, "name": "<color=#FCBD39>Clear</color>", "duration": 3.42, "dialog": "<size=32>This is all so suspicious! And anyway, the flyer said, ‘Welcome to Rulu Island!,’ so why do you keep calling it ‘Lulu Island’?</size>" },
+                        { "time": 25840, "name": "<color=#E13032>Fail</color>", "duration": 2.00, "dialog": "<size=32>Clear-chan~ That's obviously a typo~ A fun island like this should definitely be called Lulu Island~</size>" },
+                        { "time": 29540, "name": "<color=#BDCEF6>Play</color>", "duration": 2.30, "dialog": "<size=32>It feels really off, but the flyer did say 'Welcome,' and if we just borrow these for a bit and return them in good condition, it should be fine, right?</size>" },
+                        { "time": 33580, "name": "<color=#E13032>Fail</color>", "duration": 2.62, "dialog": "<size=32>Exactly, exactly, and the treasure map was given to me by some very wealthy-looking ladies. For a commoner like me, borrowing these for a bit is no crime, right?</size>" },
+                        { "time": 37600, "name": "<color=#FCBD39>Clear</color>", "duration": 2.30, "dialog": "<size=32>But this is a pirate ship! There could be strange things! And that random full-length mirror gives me the creeps!</size>" },
+                        { "time": 41640, "name": "<color=#E13032>Fail</color>", "duration": 1.64, "dialog": "<size=32>Hehe~ So Clear-chan, you’re actually scared of cursed pirate ships, huh?</size>" },
+                        { "time": 44700, "name": "<color=#FCBD39>Clear</color>", "duration": 2.34, "dialog": "<size=32>Huh? Wh-what did you say? Hey... Don't underestimate me!!! What do you need? I’ll pull everything out and show you!!!</size>" },
+                        { "time": 48740, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 49480, "name": " ", "duration": 1.90, "dialog": "<size=32>Despite trembling like a leaf, Clear began to lift and move the items inside the pirate ship.</size>" },
+                        { "time": 52840, "name": " ", "duration": 1.90, "dialog": "<size=32>While carrying out a luxurious-looking full-length mirror, Fail ended up getting a flick on the forehead from Clear and was dragged out.</size>" },
+                        { "time": 56180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#E13032>페일</color>", "duration": 1.64, "dialog": "짜잔~ 이게 바로 룰루 아일랜드의 보물선이라구-" },
+                        { "time": 3380, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 4940, "name": " ", "duration": 2.26, "dialog": "어디선가 해적 모자와 안대를 쓰고 나타난 페일이 이끈 곳에는 정말로 난파된 해적선이 있었다." },
+                        { "time": 8680, "name": " ", "duration": 1.90, "dialog": "부서진 배 안쪽으로는 튜브 등 물놀이 용품과 텐트, 휴대용 취사도구 같은 캠핑 용품이 쌓여있었다." },
+                        { "time": 12000, "name": "<color=#E13032>페일</color>", "duration": 1.88, "dialog": "어때어때? 대단하지? 이거 모두 심판자 씨랑 같이 이 보물 지도를 보고 찾아낸 거라고-." },
+                        { "time": 15380, "name": " ", "duration": 3.04, "dialog": "심판자 씨가 어떻게 여기까지 같이 왔는지는 둘째로 치더라도, 이런 곳에 왜 해적선이 있고, 왜 해적선에 이런 물건들이 준비되어 있는지 이해가 안 가는 것투성이다." },
+                        { "time": 20100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20800, "name": "<color=#FCBD39>클리어</color>", "duration": 3.42, "dialog": "이런 거 너무너무 수상하잖아? 그리고 애당초 그 전단지에는 ‘룰르 아일랜드에 오신 것을 환영합니다!’라고 쓰여 있는데 왜 자꾸 ‘룰루 아일랜드’라고 부르는 거야?" },
+                        { "time": 25840, "name": "<color=#E13032>페일</color>", "duration": 2.00, "dialog": "클리어쨩 - 그런 거 오타인 게 당연하잖아~이렇게 재미있는 섬의 이름은 룰루 아일랜드로 결정이라고~" },
+                        { "time": 29540, "name": "<color=#BDCEF6>플레이</color>", "duration": 2.30, "dialog": "굉장히 찝찝하지만, 전단지에도 환영한다고 쓰여 있고, 잠깐 빌려 쓰고 깨끗이 돌려놓으면 괜찮지 않을까?" },
+                        { "time": 33580, "name": "<color=#E13032>페일</color>", "duration": 2.62, "dialog": "맞아 맞아, 이 보물지도, 굉장히 부잣집 아가씨 같은 언니들이 준 거라구-. 나 같은 서민은 이 정도는 빌려 써도 무죄라고?" },
+                        { "time": 37600, "name": "<color=#FCBD39>클리어</color>", "duration": 2.30, "dialog": "해적선이라니까?! 이상한 물건이 있을 수도 있다니까?! 일단 저 뜬금없는 전신거울도 너무 기분 나빠!" },
+                        { "time": 41640, "name": "<color=#E13032>페일</color>", "duration": 1.64, "dialog": "헤에 - 클리어짱 결국 저주받은 해적선이 무서운 거로구나아 -" },
+                        { "time": 44700, "name": "<color=#FCBD39>클리어</color>", "duration": 2.34, "dialog": "하아? 뭐.... 뭐라고? 야.... 얕보지 말라고!!! 뭐가 필요한데?? 내가 싹 다 끄집어내서 본때를 보여줄 테니까!!!!!!" },
+                        { "time": 48740, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 49480, "name": " ", "duration": 1.90, "dialog": "클리어는 온몸을 사시나무 떨듯이 떨면서도, 해적선 안의 물건을 번쩍번쩍 들어서 옮겼다." },
+                        { "time": 52840, "name": " ", "duration": 1.90, "dialog": "고급스러워 보이는 전신거울을 들고나오던 페일은 결국 클리어에게 꿀밤을 맞고 질질 끌려 나왔다." },
+                        { "time": 56180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#E13032>フェイル</color>", "duration": 1.64, "dialog": "<size=34>じゃじゃーん！ これがルル・アイランドの宝船だよー！</size>" },
+                        { "time": 3380, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 4940, "name": " ", "duration": 2.26, "dialog": "<size=34>どこかで海賊帽子とアイパッチをつけて現れたフェイルが案内した場所には、本当に難破した海賊船があった。</size>" },
+                        { "time": 8680, "name": " ", "duration": 1.90, "dialog": "<size=34>壊れた船の中には、チューブなどの水遊び用具やテント、携帯用調理器具といったキャンプ用品が積まれていた。</size>" },
+                        { "time": 12000, "name": "<color=#E13032>フェイル</color>", "duration": 1.88, "dialog": "<size=34>どう？すごいでしょ？これ全部、審判者さんと一緒にこの宝の地図を見て探し出したんだよ！</size>" },
+                        { "time": 15380, "name": " ", "duration": 3.04, "dialog": "<size=34>審判者さんがどうやってここまで一緒に来たのかはさておき、どうしてこんなところに海賊船があって、なぜ海賊船にこんな物が準備されているのか理解できないことだらけだった。</size>" },
+                        { "time": 20100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 20800, "name": "<color=#FCBD39>クリア</color>", "duration": 3.42, "dialog": "<size=34>これ、すごく怪しいよ？それに、そもそもそのチラシには‘ルンル・アイランドへようこそ！’って書いてあるのに、どうして‘ルル・アイランド’って呼ぶの？</size>" },
+                        { "time": 25840, "name": "<color=#E13032>フェイル</color>", "duration": 2.00, "dialog": "<size=34>クリアちゃん、そんなのタイプミスに決まってるじゃん〜こんな面白い島の名前はルル・アイランドに決まりだよ〜</size>" },
+                        { "time": 29540, "name": "<color=#BDCEF6>プレイ</color>", "duration": 2.30, "dialog": "<size=34>すごく気になるけど、チラシにも歓迎すると書いてあるし、ちょっと借りてきれいに戻せば大丈夫じゃないかな？</size>" },
+                        { "time": 33580, "name": "<color=#E13032>フェイル</color>", "duration": 2.62, "dialog": "<size=34>そうそう。この宝の地図、すごくお金持ちのお姉さんたちからもらったんだよ。私みたいな庶民がこれくらい借りたって無罪だよね？</size>" },
+                        { "time": 37600, "name": "<color=#FCBD39>クリア</color>", "duration": 2.30, "dialog": "<size=34>海賊船だって言ってるでしょ？！変な物があるかもしれないんだから！とりあえず、その唐突な全身鏡もすごく気持ち悪い！</size>" },
+                        { "time": 41640, "name": "<color=#E13032>フェイル</color>", "duration": 1.64, "dialog": "<size=34>へえー、クリアちゃん、結局呪われた海賊船が怖いんだねー</size>" },
+                        { "time": 44700, "name": "<color=#FCBD39>クリア</color>", "duration": 2.34, "dialog": "<size=34>はあ？なん…なんて？な…なめるなよ！！！何が必要なのか、全部引っ張り出して本気を見せてやるから！！</size>" },
+                        { "time": 48740, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 49480, "name": " ", "duration": 1.90, "dialog": "<size=34>クリアは全身を震わせながらも、海賊船の中の物を次々と持ち上げて移動させた。</size>" },
+                        { "time": 52840, "name": " ", "duration": 1.90, "dialog": "<size=34>高級そうな全身鏡を持って出てきたフェイルは、結局クリアに頭を『コツン』と叩かれた後、引きずり出された。</size>" },
+                        { "time": 56180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_mission_loop",
+            "audios": [ ],
+            "images": [ ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#BDCEF6>Play</color>", "duration": 1.30, "dialog": "<size=32>Uh... Diein...? What are you doing here?</size>" },
+                        { "time": 2540, "name": " ", "duration": 1.00, "dialog": "<size=32>On the sprawling sandy beach, Diein was lying down, wearing a mask.</size>" },
+                        { "time": 5240, "name": "<color=#F4505D>Diein</color>", "duration": 1.24, "dialog": "<size=32>...Rescue... signal...</size>" },
+                        { "time": 7600, "name": "<color=#BDCEF6>Play</color>", "duration": 0.30, "dialog": "<size=32>Huh? A rescue signal?</size>" },
+                        { "time": 8980, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9740, "name": " ", "duration": 2.30, "dialog": "<size=32>Intrigued by the surprising and tired reply, I looked next to Diein to see pebbles arranged on the sand, spelling out S.O.... but scattered as if the message was unfinished.</size>" },
+                        { "time": 13080, "name": "<color=#BDCEF6>Play</color>", "duration": 1.30, "dialog": "<size=32>Uh... were you trying to make an SOS signal with the pebbles?</size>" },
+                        { "time": 15440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 16140, "name": "<color=#F4505D>Diein</color>", "duration": 0.96, "dialog": "<size=32>......Hot......</size>" },
+                        { "time": 18500, "name": "<color=#BDCEF6>Play</color>", "duration": 0.30, "dialog": "<size=32>Huh? What?</size>" },
+                        { "time": 19880, "name": "<color=#F4505D>Diein</color>", "duration": 1.96, "dialog": "<size=32>It’s... too hot... I can’t... breathe...</size>" },
+                        { "time": 22900, "name": "<color=#BDCEF6>Play</color>", "duration": 1.64, "dialog": "<size=32>Umm... Diein, how about taking off your mask? It might make it easier to breathe...</size>" },
+                        { "time": 25600, "name": "<color=#F4505D>Diein</color>", "duration": 1.30, "dialog": "<size=32>......Teeth......</size>" },
+                        { "time": 27980, "name": "<color=#BDCEF6>Play</color>", "duration": 0.10, "dialog": "<size=32>What?</size>" },
+                        { "time": 28840, "name": "<color=#F4505D>Diein</color>", "duration": 1.30, "dialog": "<size=32>...They’re... jagged... weird-looking...</size>" },
+                        { "time": 31200, "name": " ", "duration": 1.68, "dialog": "<size=32>I had always thought it was odd that the new transfer student wore a mask all the time, but I never imagined this would be the reason.</size>" },
+                        { "time": 34240, "name": " ", "duration": 1.66, "dialog": "<size=32>It was both surprising and sad to realize that someone as pretty as Diein was worried about Diein's appearance.</size>" },
+                        { "time": 37280, "name": "<color=#BDCEF6>Play</color>", "duration": 2.00, "dialog": "<size=32>I think your teeth are really pretty, Diein. Actually, I've seen famous celebrities with similar teeth, and I’ve heard it’s quite trendy these days!</size>" },
+                        { "time": 40640, "name": "<color=#F4505D>Diein</color>", "duration": 1.30, "dialog": "<size=32>...My teeth... are pretty...</size>" },
+                        { "time": 43000, "name": " ", "duration": 1.98, "dialog": "<size=32>Diein seemed to ponder for a moment, then cautiously took off the mask, letting out a gentle, relieved sigh.</size>" },
+                        { "time": 46040, "name": "<color=#F4505D>Diein</color>", "duration": 0.64, "dialog": "<size=32>...Feels cool...</size>" },
+                        { "time": 48080, "name": " ", "duration": 1.30, "dialog": "<size=32>As Diein slightly smiled, enjoying the cool sea breeze, Diein soon fell asleep from exhaustion.</size>" },
+                        { "time": 50780, "name": " ", "duration": 1.66, "dialog": "<size=32>While finishing the incomplete S.O.S signal, I resolved to be more careful with compliments about Diein's appearance in the future.</size>" },
+                        { "time": 53800, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.30, "dialog": "어... 음 다인아...? 여기서 뭐해?" },
+                        { "time": 2540, "name": " ", "duration": 1.00, "dialog": "넓게 펼쳐진 백사장에 다인이 마스크를 쓴 채로 쓰러져 있었다." },
+                        { "time": 5240, "name": "<color=#F4505D>다인</color>", "duration": 1.24, "dialog": ".......구조...... 신호......" },
+                        { "time": 7600, "name": "<color=#BDCEF6>플레이</color>", "duration": 0.30, "dialog": "응? 구조신호?" },
+                        { "time": 8980, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9740, "name": " ", "duration": 2.30, "dialog": "지친 듯 겨우겨우 들린 놀라운 대답에 다인의 옆을 보자 백사장 위에 자갈들로 S.O....까지 쓰여있고 옮기다 만 듯한 자갈들이 흩어져 있었다." },
+                        { "time": 13080, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.30, "dialog": "어... 음... 자갈로 SOS를 만들고 있었던 거야?" },
+                        { "time": 15440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 16140, "name": "<color=#F4505D>다인</color>", "duration": 0.96, "dialog": ".......더워......." },
+                        { "time": 18500, "name": "<color=#BDCEF6>플레이</color>", "duration": 0.30, "dialog": "응? 뭐라구?" },
+                        { "time": 19880, "name": "<color=#F4505D>다인</color>", "duration": 1.96, "dialog": "너무....... 더워....... 숨이....... 차서...." },
+                        { "time": 22900, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.64, "dialog": "음... 다인아, 마스크를 좀 벗으면... 숨쉬기 낫지 않을까 싶은데..." },
+                        { "time": 25600, "name": "<color=#F4505D>다인</color>", "duration": 1.30, "dialog": ".........이빨............" },
+                        { "time": 27980, "name": "<color=#BDCEF6>플레이</color>", "duration": 0.10, "dialog": "응?" },
+                        { "time": 28840, "name": "<color=#F4505D>다인</color>", "duration": 1.30, "dialog": ".....삐죽삐죽.... 이상해서....." },
+                        { "time": 31200, "name": " ", "duration": 1.68, "dialog": "전학생이 언제나 마스크를 쓰고 있다고는 생각했지만, 이런 이유일 거라곤 생각해 보지 못했다." },
+                        { "time": 34240, "name": " ", "duration": 1.66, "dialog": "이렇게 예쁜 아이도 외모 때문에 고민을 한다는 게 놀랍기도 하고, 안쓰럽기도 했다." },
+                        { "time": 37280, "name": "<color=#BDCEF6>플레이</color>", "duration": 2.00, "dialog": "난 다인이 이빨이 굉장히 예쁘다고 생각하는데? 사실 그런 치아의 유명 연예인도 봤고, 요즘 굉장히 유행한다고 들었어!" },
+                        { "time": 40640, "name": "<color=#F4505D>다인</color>", "duration": 1.30, "dialog": ".....내 이빨.... 예쁘구나...." },
+                        { "time": 43000, "name": " ", "duration": 1.98, "dialog": "다인은 잠시 생각에 잠긴 듯하더니 조심스럽게 마스크를 벗고, 호오.... 하는 소리의 얕은 숨을 내쉬었다." },
+                        { "time": 46040, "name": "<color=#F4505D>다인</color>", "duration": 0.64, "dialog": "....시원해....." },
+                        { "time": 48080, "name": " ", "duration": 1.30, "dialog": "다인은 바닷바람이 시원한 듯 미소를 살짝 짓더니 지친 듯 이내 잠이 들어버렸다." },
+                        { "time": 50780, "name": " ", "duration": 1.66, "dialog": "미완성이었던 S.O.S 신호를 마저 만들면서, 다인이에게 외모 칭찬은 자제해야겠다고 다짐했다." },
+                        { "time": 53800, "name": " ", "duration": 0, "dialog": " " }
+
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.30, "dialog": "<size=34>あ…ええと、ダインたん？ ここで何してるの？</size>" },
+                        { "time": 2540, "name": " ", "duration": 1.00, "dialog": "<size=34>広く広がる砂浜に、ダインがマスクをつけたまま横たわっていた。</size>" },
+                        { "time": 5240, "name": "<color=#F4505D>ダイン</color>", "duration": 1.24, "dialog": "<size=34>……救助……信号……</size>" },
+                        { "time": 7600, "name": "<color=#BDCEF6>プレイ</color>", "duration": 0.30, "dialog": "<size=34>え？救助信号？</size>" },
+                        { "time": 8980, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 9740, "name": " ", "duration": 2.30, "dialog": "<size=34>疲れた様子でやっと聞こえた驚きの答えに、ダインの隣を見ると、砂浜の上に石でS.O...と書かれており、移動途中で終わったような石が散らばっていた。</size>" },
+                        { "time": 13080, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.30, "dialog": "<size=34>あ…ええと、石でSOSを作ろうとしてたの？</size>" },
+                        { "time": 15440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 16140, "name": "<color=#F4505D>ダイン</color>", "duration": 0.96, "dialog": "<size=34>……暑い……</size>" },
+                        { "time": 18500, "name": "<color=#BDCEF6>プレイ</color>", "duration": 0.30, "dialog": "<size=34>え？なんて？</size>" },
+                        { "time": 19880, "name": "<color=#F4505D>ダイン</color>", "duration": 1.96, "dialog": "<size=34>とても……暑い……息が……苦しくて…</size>" },
+                        { "time": 22900, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.64, "dialog": "<size=34>うーん…ダインたん、マスクを少し外したら…呼吸しやすくなるんじゃないかな？</size>" },
+                        { "time": 25600, "name": "<color=#F4505D>ダイン</color>", "duration": 1.30, "dialog": "<size=34>………歯……</size>" },
+                        { "time": 27980, "name": "<color=#BDCEF6>プレイ</color>", "duration": 0.10, "dialog": "<size=34>え？</size>" },
+                        { "time": 28840, "name": "<color=#F4505D>ダイン</color>", "duration": 1.30, "dialog": "<size=34>…でこぼこしてて…変だよ…</size>" },
+                        { "time": 31200, "name": " ", "duration": 1.68, "dialog": "<size=34>転校生がいつもマスクをしている理由を考えたことはあったが、こんな理由だとは思いもよらなかった。</size>" },
+                        { "time": 34240, "name": " ", "duration": 1.66, "dialog": "<size=34>こんなに美しい子でも外見に悩んでいるというのは驚きでもあり、気の毒でもあった。</size>" },
+                        { "time": 37280, "name": "<color=#BDCEF6>プレイ</color>", "duration": 2.00, "dialog": "<size=34>私、ダインたんの歯、すごくきれいだと思うけど？実際にそういう歯の有名な芸能人も見たし、最近すごく流行ってるって聞いたよ！</size>" },
+                        { "time": 40640, "name": "<color=#F4505D>ダイン</color>", "duration": 1.30, "dialog": "<size=34>…私の歯…きれいかな…</size>" },
+                        { "time": 43000, "name": " ", "duration": 1.98, "dialog": "<size=34>ダインはしばらく考え込んだ後、慎重にマスクを外し、ほーっと浅い息をついた。</size>" },
+                        { "time": 46040, "name": "<color=#F4505D>ダイン</color>", "duration": 0.64, "dialog": "<size=34>……涼しい……</size>" },
+                        { "time": 48080, "name": " ", "duration": 1.30, "dialog": "<size=34>ダインは海風が涼しいようで、ほんのり微笑み、疲れた様子でそのまま眠ってしまった。</size>" },
+                        { "time": 50780, "name": " ", "duration": 1.66, "dialog": "<size=34>未完成だったSOS信号を仕上げながら、ダインへの外見の褒め言葉は控えようと決心した。</size>" },
+                        { "time": 53800, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_collection_loop",
+            "audios": [ ],
+            "images": [ ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#FF91EE>Era</color>", "duration": 2.24, "dialog": "<size=32>Look at this, luv! I caught a proper black snake! D'ya think we can roast it up for supper?</size>" },
+                        { "time": 4040, "name": "<color=#BDCEF6>Play</color>", "duration": 0.96, "dialog": "<size=32>A snake...? That's... a snake?!</size>" },
+                        { "time": 6400, "name": " ", "duration": 2.68, "dialog": "<size=32>Where the arrow had struck, there truly was a jet-black snake writhing around, and Era casually subdued it and lifted it up high.</size>" },
+                        { "time": 10780, "name": " ", "duration": 3.00, "dialog": "<size=32>Seeing Era catch something with a makeshift bow made of twigs made me think she was a true sharpshooter, but the thought of eating the snake was making me dizzy.</size>" },
+                        { "time": 15480, "name": "<color=#BDCEF6>Play</color>", "duration": 1.96, "dialog": "<size=32>I... I've never eaten a snake before... Let's just... release it somewhere far away, okay?!?!</size>" },
+                        { "time": 19180, "name": "<color=#FF91EE>Era</color>", "duration": 2.02, "dialog": "<size=32>Is that so, luv? But don’t ya think it might taste as good as eel? Let's give it a go, try it, try it!</size>" },
+                        { "time": 22540, "name": " ", "duration": 1.66, "dialog": "<size=32>While Era was insisting we try it and I was adamantly refusing, something unusual happened.</size>" },
+                        { "time": 25580, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 26280, "name": "<color=#F4505D>Diein</color>", "duration": 0.96, "dialog": "<size=32>...Snake... like...</size>" },
+                        { "time": 28640, "name": " ", "duration": 1.96, "dialog": "<size=32>Diein suddenly appeared from somewhere, saying Diein wanted to eat the snake, pushing me to the brink of fainting.</size>" },
+                        { "time": 32000, "name": "<color=#F4505D>Diein</color>", "duration": 1.90, "dialog": "<size=32>Snake... cute... give... to me...</size>" },
+                        { "time": 35380, "name": "<color=#FF91EE>Era</color>", "duration": 1.66, "dialog": "<size=32>Aye, is that right? Now that ya mention it, this snake does look a bit too cute to be eating, like a wee pet or something.</size>" },
+                        { "time": 38740, "name": "<color=#FF91EE>Era</color>", "duration": 0.66, "dialog": "<size=32>Well then, Diein, you take it!</size>" },
+                        { "time": 40780, "name": " ", "duration": 1.60, "dialog": "<size=32>Diein hugged the snake like a doll and seemed to smile for a moment.</size>" },
+                        { "time": 43800, "name": " ", "duration": 2.68, "dialog": "<size=32>Staring blankly as Era cheerfully disappeared into the forest, saying she would catch something even tastier, I suddenly felt dizzy and finally lost consciousness.</size>" },
+                        { "time": 48180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#FF91EE>에라</color>", "duration": 2.24, "dialog": "이것 보레이~ 억수로 시커먼 구렁이를 잡았데이! 이거 바싹 꾸버가 무도 되나?" },
+                        { "time": 4040, "name": "<color=#BDCEF6>플레이</color>", "duration": 0.96, "dialog": "구렁이....? 배... 뱀이잖아요?!" },
+                        { "time": 6400, "name": " ", "duration": 2.68, "dialog": "화살이 명중한 곳엔 정말로 새까만 색의 뱀이 펄떡거리고 있었고, 에라는 아무렇지도 않게 뱀을 제압해서 번쩍 들어 올려 보였다." },
+                        { "time": 10780, "name": " ", "duration": 3.00, "dialog": "나뭇가지로 아무렇게나 만든 듯한 활로 무언가를 잡아내는 에라는 정말 신궁이라는 생각도 잠시, 이 뱀을 먹을 수 있냐는 질문에 어지럼증이 몰려왔다." },
+                        { "time": 15480, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.96, "dialog": "배... 뱀을 먹어 본 적은 없는데... 그... 그냥 멀리 풀어주도록 하죠?!?!" },
+                        { "time": 19180, "name": "<color=#FF91EE>에라</color>", "duration": 2.02, "dialog": "맞나~? 하지만 장어맹키로 맛있을 수도 있을 것 같지 않나? 함 무 보자, 츄라이 츄라이~!" },
+                        { "time": 22540, "name": " ", "duration": 1.66, "dialog": "한번 먹어보자는 에라와 절대 안 된다고 실랑이를 벌이고 있을 때였다." },
+                        { "time": 25580, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 26280, "name": "<color=#F4505D>다인</color>", "duration": 0.96, "dialog": ".....뱀..... 좋아...." },
+                        { "time": 28640, "name": " ", "duration": 1.96, "dialog": "어디선가 나타난 다인까지 뱀을 먹겠다고 나서서, 난 정말로 기절하기 일보 직전이 되었다." },
+                        { "time": 32000, "name": "<color=#F4505D>다인</color>", "duration": 1.90, "dialog": "뱀.... 귀여워.... 나..... 줘......" },
+                        { "time": 35380, "name": "<color=#FF91EE>에라</color>", "duration": 1.66, "dialog": "맞나~? 그러고보니 이 뱀은 문디 같이 생기가꼬 먹기엔 쪼매 귀여운 것 같기도 하데이~" },
+                        { "time": 38740, "name": "<color=#FF91EE>에라</color>", "duration": 0.66, "dialog": "아나, 다인이 니 가지라!" },
+                        { "time": 40780, "name": " ", "duration": 1.60, "dialog": "다인은 뱀을 인형처럼 꼬옥 안고 잠시 미소를 짓는 것처럼 보였다." },
+                        { "time": 43800, "name": " ", "duration": 2.68, "dialog": "에라가 더 맛있어 보이는걸 잡아 오겠다며 숲속으로 힘차게 사라지는 것을 멍하니 바라보다 갑자기 눈앞이 핑 돌더니 그만 정신을 잃어버리고 말았다." },
+                        { "time": 48180, "name": " ", "duration": 0, "dialog": " " }
+
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 0, "name": "<color=#FF91EE>エラ</color>", "duration": 2.24, "dialog": "<size=34>これ見て〜！めっちゃ真っ黒な青大将捕まえたで！これカリカリに焼いてもええかな？</size>" },
+                        { "time": 4040, "name": "<color=#BDCEF6>プレイ</color>", "duration": 0.96, "dialog": "<size=34>青大将…？それって、蛇じゃないの?!</size>" },
+                        { "time": 6400, "name": " ", "duration": 2.68, "dialog": "<size=34>矢が当たった場所には本当に真っ黒な蛇がピョンピョンしており、エラはなんともない様子で蛇を抑え、持ち上げて見せた。</size>" },
+                        { "time": 10780, "name": " ", "duration": 3.00, "dialog": "<size=34>枝で何気なく作ったような弓で何かを捕まえるエラは、本当に弓の名手だと感じたものの、この蛇を食べられるかという質問にはめまいが襲ってきた。</size>" },
+                        { "time": 15480, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.96, "dialog": "<size=34>ヘ…蛇を食べたことはないけど…とりあえず遠くに放しておきましょうか?!</size>" },
+                        { "time": 19180, "name": "<color=#FF91EE>エラ</color>", "duration": 2.02, "dialog": "<size=34>ほんまに？でも、ウナギみたいに美味しいかもしれへんよ？一回食べてみよう、トライトライ~！</size>" },
+                        { "time": 22540, "name": " ", "duration": 1.66, "dialog": "<size=34>エラが食べてみようと提案し、絶対にダメだと抵抗しているときだった。</size>" },
+                        { "time": 25580, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 26280, "name": "<color=#F4505D>ダイン</color>", "duration": 0.96, "dialog": "<size=34>……蛇……好き……</size>" },
+                        { "time": 28640, "name": " ", "duration": 1.96, "dialog": "<size=34>どこからか現れたダインまで蛇を食べると言い出し、私は本当に気を失いそうになった。</size>" },
+                        { "time": 32000, "name": "<color=#F4505D>ダイン</color>", "duration": 1.90, "dialog": "<size=34>蛇…かわいい……私……ちょうだい……</size>" },
+                        { "time": 35380, "name": "<color=#FF91EE>エラ</color>", "duration": 1.66, "dialog": "<size=34>せやな〜。そういえば、このヘビはアホそうに見えて、食べるにはちょっと可愛すぎるかもな〜。</size>" },
+                        { "time": 38740, "name": "<color=#FF91EE>エラ</color>", "duration": 0.66, "dialog": "<size=34>ほい、ダインたん、これ持ってきぃ。</size>" },
+                        { "time": 40780, "name": " ", "duration": 1.60, "dialog": "<size=34>ダインは蛇をぬいぐるみのように抱きしめ、しばらく微笑んでいるように見えた。</size>" },
+                        { "time": 43800, "name": " ", "duration": 2.68, "dialog": "<size=34>エラが「もっと美味しそうなものを探しに行く」と言って元気よく森の中に消えていくのをぼんやり見ていたが、突然目の前が回り始め、そのまま気を失ってしまった。</size>" },
+                        { "time": 48180, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_rank_loop",
+            "audios": [ ],
+            "images": [ ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 1700, "name": "<color=#62ECFF>Lena</color>", "duration": 2.28, "dialog": "<size=32>Play, are you coming to? Play, can you hear me?</size>" },
+                        { "time": 5440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 7080, "name": " ", "duration": 1.00, "dialog": "<size=32>When I opened my eyes, I saw the blue sky and Ms. Lena looking down at me.</size>" },
+                        { "time": 9780, "name": "<color=#BDCEF6>Play</color>", "duration": 1.30, "dialog": "<size=32>Ugh.. uh... Where am I...?</size>" },
+                        { "time": 12480, "name": "<color=#62ECFF>Lena</color>", "duration": 1.66, "dialog": "<size=32>It seems you had a heatstroke. You sweated too much, and it was almost a serious situation, Play.</size>" },
+                        { "time": 15500, "name": " ", "duration": 1.30, "dialog": "<size=32>Though I still felt dizzy and a bit disoriented, my memories gradually started coming back.</size>" },
+                        { "time": 18200, "name": " ", "duration": 2.68, "dialog": "<size=32>We had spent the whole day playing on the beach, helping Diein make a rescue signal, and running around the forest without drinking enough water under the scorching sun.</size>" },
+                        { "time": 22580, "name": "<color=#BDCEF6>Play</color>", "duration": 1.32, "dialog": "<size=32>Ms. Lena... I can't feel anything on my forehead... What happened...?</size>" },
+                        { "time": 25280, "name": "<color=#62ECFF>Lena</color>", "duration": 3.02, "dialog": "<size=32>It’s probably because I placed a cold towel on it for a long time. I was really worried, Play! I couldn't figure out what was wrong with you, so I even performed CPR.</size>" },
+                        { "time": 29980, "name": "<color=#BDCEF6>Play</color>", "duration": 1.30, "dialog": "<size=32>Wha... What? Y-you... CPR???</size>" },
+                        { "time": 32680, "name": "<color=#62ECFF>Lena</color>", "duration": 3.32, "dialog": "<size=32>I was going to scold you a bit once you’d recovered... but listen carefully, in places this hot with strong sunlight, you must stay hydrated and avoid prolonged exposure to the sun...</size>" },
+                        { "time": 37340, "name": " ", "duration": 2.94, "dialog": "<size=32>Although Ms. Lena seemed to be saying something important, my mind was solely fixated on the fact that her lips had touched mine. Nothing else registered.</size>" },
+                        { "time": 41700, "name": " ", "duration": 2.30, "dialog": "<size=32>Then, for some reason, my body temperature started rising again, my vision blurred, and I fainted once more.</size>" },
+                        { "time": 45740, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 1700, "name": "<color=#62ECFF>레나</color>", "duration": 2.28, "dialog": "플레이 학생, 정신이 좀 드나요? 플레이 학생?" },
+                        { "time": 5440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 7080, "name": " ", "duration": 1.00, "dialog": "눈을 뜨자 푸른 하늘과 레나 선생님이 보였다." },
+                        { "time": 9780, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.30, "dialog": "으.. 으응.... 여기가.. 어디에요.....?" },
+                        { "time": 12480, "name": "<color=#62ECFF>레나</color>", "duration": 1.66, "dialog": "일사병인 것 같아요. 땀을 너무 많이 흘려서, 이거 하마터면 큰일 날 뻔했어요. 플레이 학생." },
+                        { "time": 15500, "name": " ", "duration": 1.30, "dialog": "아직 어지럽고 조금 몽롱한 기분이었지만, 조금씩 기억이 돌아왔다." },
+                        { "time": 18200, "name": " ", "duration": 2.68, "dialog": "모두와 같이 하루 종일 해변에서 놀고, 다인이 구조 신호를 만드는 것을 돕고, 숲에서 뛰어다니는 동안 충분히 물을 마시지 않고 뙤약볕에서 땀을 흘린 탓인 것 같다." },
+                        { "time": 22580, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.32, "dialog": "선생님.. 이마 쪽에 감각이 전혀 없어요... 어떻게 된 걸까요....?" },
+                        { "time": 25280, "name": "<color=#62ECFF>레나</color>", "duration": 3.02, "dialog": "차가운 수건을 오래 올려두어서 그런 걸 거예요. 선생님은 정말 놀랐어요 플레이 학생! 어디가 아픈 건지 알 수 없고 너무 당황해서, 인공호흡까지 했답니다." },
+                        { "time": 29980, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.30, "dialog": "앗....? 네?... 뭣?... 이... 인공 호흡이요???" },
+                        { "time": 32680, "name": "<color=#62ECFF>레나</color>", "duration": 3.32, "dialog": "어느 정도 회복한 뒤에 잔소리를 하려고 했는데... 잘 알아두세요, 이렇게 덥고 해가 강하게 내리쬐는 곳에서는 충분한 수분을 섭취하고, 너무 오랫동안 햇볕에 노출되지 않도록......." },
+                        { "time": 37340, "name": " ", "duration": 2.94, "dialog": "레나 선생님이 무슨 말씀을 하시는 것 같았지만, 선생님의 입술에 내 입술이 닿았었다는 생각만이 머릿속을 꽉 채워버려 아무 소리도 들리지 않았다." },
+                        { "time": 41700, "name": " ", "duration": 2.30, "dialog": "그리곤 어째선지 다시 체온이 마구 오르고 눈앞이 흐릿해지면서 다시 정신을 잃어버리고 말았다." },
+                        { "time": 45740, "name": " ", "duration": 0, "dialog": " " }
+
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 1700, "name": "<color=#62ECFF>レナ</color>", "duration": 2.28, "dialog": "<size=34>プレイさん、意識が戻りましたか？ プレイさん？</size>" },
+                        { "time": 5440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 7080, "name": " ", "duration": 1.00, "dialog": "<size=34>目を開けると、青い空とレナ先生の姿が見えた。</size>" },
+                        { "time": 9780, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.30, "dialog": "<size=34>う…うう…ここは…どこですか…？</size>" },
+                        { "time": 12480, "name": "<color=#62ECFF>レナ</color>", "duration": 1.66, "dialog": "<size=34>熱中症のようですね。汗をたくさんかいてしまって、危うく大変なことになるところでしたよ、プレイさん。</size>" },
+                        { "time": 15500, "name": " ", "duration": 1.30, "dialog": "<size=34>まだ頭がふらふらしていて少しぼんやりした感じだったが、少しずつ記憶が戻ってきた。</size>" },
+                        { "time": 18200, "name": " ", "duration": 2.68, "dialog": "<size=34>みんなと一緒に一日中ビーチで遊び、ダインが救助信号を作るのを手伝い、森で走り回る間に十分に水分を摂らずに強い日差しの下で汗をかいたせいのようだ。</size>" },
+                        { "time": 22580, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.32, "dialog": "<size=34>先生…額の感覚が全くないのですが…どうなっているのでしょう…？</size>" },
+                        { "time": 25280, "name": "<color=#62ECFF>レナ</color>", "duration": 3.02, "dialog": "<size=34>冷たいタオルを長時間乗せていたからでしょう。先生は本当に驚きましたよ、プレイさん！どこが痛いのかもわからず、すごく焦って人工呼吸までしました。</size>" },
+                        { "time": 29980, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.30, "dialog": "<size=34>あっ…？え？じ……人工呼吸ですか？</size>" },
+                        { "time": 32680, "name": "<color=#62ECFF>レナ</color>", "duration": 3.32, "dialog": "<size=34>ある程度回復した後に注意するつもりでしたが…覚えておいてくださいね、こんなに暑くて日差しが強い場所では十分な水分を摂取し、長時間日光にさらされないように……</size>" },
+                        { "time": 37340, "name": " ", "duration": 2.94, "dialog": "<size=34>レナ先生が何を言っているのかはなんとなくわかる気がしたが、先生の唇が自分の唇に触れたという思いが頭をいっぱいに占めて、何も聞こえなくなった。</size>" },
+                        { "time": 41700, "name": " ", "duration": 2.30, "dialog": "<size=34>そしてなぜか再び体温が急に上がり、視界がぼやけてまた気を失ってしまった。</size>" },
+                        { "time": 45740, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        },
+
+        {
+            "loop_vid_name": "mode_air_loop",
+            "audios": [ ],
+            "images": [ ],
+            "dialog": 
+            {
+                "en": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 3.30, "dialog": "<size=28>The gentle sound of waves softly whispered on the shores of the deserted island, Lulu... no, Rulu Land. Stars twinkled brilliantly in the sky, and the moonlight created shimmering silver waves over the ocean.</size>" },
+                        { "time": 4700, "name": " ", "duration": 3.00, "dialog": "<size=28>The warm glow from the campfire subtly illuminated the faces of friends gathered around, with a pleasant warmth surrounding us every time the flames rose.</size>" },
+                        { "time": 9040, "name": " ", "duration": 3.00, "dialog": "<size=28>This adventure, which started from a travel flyer Fail picked up, had its fair share of bewildering moments. But in the end, it would surely become a cherished memory for years to come.</size>" },
+                        { "time": 13440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 14100, "name": "<color=#E13032>Fail</color>", "duration": 2.32, "dialog": "<size=32>Alright, everyone! Let's take a commemorative photo of our great adventure in Rulu Land, prepared by yours truly, Fail! Everyone, gather around!</size>" },
+                        { "time": 17800, "name": " ", "duration": 0, "dialog": "<size=32>Snap!" },
+                        { "time": 19000, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 19700, "name": " ", "duration": 1.66, "dialog": "<size=32>The photo turned out beautifully with everyone in the frame, but then it dawned on me that Clear was missing.</size>" },
+                        { "time": 22740, "name": "<color=#BDCEF6>Play</color>", "duration": 1.00, "dialog": "Wait, I don't see Clear. Where did she go?</size>" },
+                        { "time": 25100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 25800, "name": "<color=#E13032>Fail</color>", "duration": 1.70, "dialog": "<size=32>Uhuhu.. Clear-chan went to the treasure ship to find the fireworks box~</size>" },
+                        { "time": 28840, "name": "<color=#E13032>Fail</color>", "duration": 2.04, "dialog": "<size=32>She was trembling and said, \"Hah If you kindly beg me to come with, I might just agree?\"</size>" },
+                        { "time": 32200, "name": "<color=#E13032>Fail</color>", "duration": 1.68, "dialog": "<size=32>But when I teased her, she said, \"Don't underestimate me!\" and disappeared while shaking. Uhuhuhu...</size>" },
+                        { "time": 35580, "name": "<color=#BDCEF6>Play</color>", "duration": 1.30, "dialog": "<size=32>Clear went alone? Is it okay for her to be out there by herself in this place...</size>" },
+                        { "time": 38280, "name": "<color=#E13032>Fail</color>", "duration": 1.70, "dialog": "<size=32>Uhuhu... To be honest, I wanted to follow her a bit later to see her crying scared face...</size>" },
+                        { "time": 41300, "name": "<color=#E13032>Fail</color>", "duration": 1.64, "dialog": "<size=32>Or maybe I wanted to tease her by showing her the photo with us in it...</size>" },
+                        { "time": 44340, "name": "<color=#E13032>Fail</color>", "duration": 1.36, "dialog": "<size=32>This way, we'll get to see a lot of Clear-chan's cute reactions, you know? Uhuhuhuhu...</size>" },
+                        { "time": 47380, "name": "<color=#62ECFF>Lena</color>", "duration": 1.32, "dialog": "<size=32>Fail, you shouldn't be thinking about teasing a dear friend...!</size>" },
+                        { "time": 50080, "name": "<color=#BDCEF6>Play</color>", "duration": 1.62, "dialog": "<size=32>Right, let's hurry and catch up with her, bring the fireworks together, and take the photo again with everyone!</size>" },
+                        { "time": 53100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 53780, "name": " ", "duration": 1.66, "dialog": "<size=32>Even thinking that Fail had gone too far, I couldn't help but also feel an urge to see Clear possibly crying from fear...</size>" },
+                        { "time": 56840, "name": " ", "duration": 1.60, "dialog": "<size=32>No, no, it was the thought of taking a beautiful group photo together that made my steps quicken.</size>" },
+                        { "time": 59500, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                },
+                "kr": {
+                    "font": "KCC-Hanbit",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 3.30, "dialog": "부드러운 파도 소리가 잔잔하게 들려오는 무인도 룰루... 아니 룰르랜드의 해변. 하늘에는 별들이 총총히 빛나고, 달빛이 바다 위에 은빛 물결을 만들어 내고 있었다." },
+                        { "time": 4700, "name": " ", "duration": 3.00, "dialog": "따뜻한 불빛이 캠프파이어 주위에 모여 앉은 친구들의 얼굴을 은은하게 비추며, 불꽃이 타오를 때마다 기분 좋은 온기가 주변을 감싼다." },
+                        { "time": 9040, "name": " ", "duration": 3.00, "dialog": "페일이 받아온 여행 전단지에서 시작된 이번 모험은, 당황스러운 일도 많았지만, 결과적으론 오래도록 기억에 남을 추억이 될 것 같다." },
+                        { "time": 13440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 14100, "name": "<color=#E13032>페일</color>", "duration": 2.32, "dialog": "자아 - 모두 이 페일님이 준비한 룰루랜드에서의 대모험을 기념할 사진을 찍자구~ 다들 모여~!" },
+                        { "time": 17800, "name": " ", "duration": 0, "dialog": "찰칵!" },
+                        { "time": 19000, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 19700, "name": " ", "duration": 1.66, "dialog": "모두 한 화면에 나오게 예쁘게 잘 찍혔다고 생각하는 찰나, 클리어가 없다는 게 떠올랐다." },
+                        { "time": 22740, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.00, "dialog": "그런데 클리어가 안 보이는걸? 어디 갔지?" },
+                        { "time": 25100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 25800, "name": "<color=#E13032>페일</color>", "duration": 1.70, "dialog": "우후후.. 클리어짱은 보물선에 불꽃놀이 상자를 찾으러 갔다구~" },
+                        { "time": 28840, "name": "<color=#E13032>페일</color>", "duration": 2.04, "dialog": "벌벌 떨면서도 \"헤에~혼자 가기엔 무서우니까 같이 가달라고 싹싹 빈다면 같이 가줄지도~?\"라고 했더니..." },
+                        { "time": 32200, "name": "<color=#E13032>페일</color>", "duration": 1.68, "dialog": "\"얕보지 말라고!\"라며 벌벌 떨면서 사라졌다구~우후후후..." },
+                        { "time": 35580, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.30, "dialog": "클리어 혼자? 이런 곳에서 혼자 다녀도 괜찮은 걸까..." },
+                        { "time": 38280, "name": "<color=#E13032>페일</color>", "duration": 1.70, "dialog": "우후후... 사실은 조금 늦게 따라가서 무서워 엉엉 울고 있는 얼굴을 보고 싶었달까..." },
+                        { "time": 41300, "name": "<color=#E13032>페일</color>", "duration": 1.64, "dialog": "아니면 우리끼리만 찍은 사진을 보여주면서 놀려주고 싶었달까..." },
+                        { "time": 44340, "name": "<color=#E13032>페일</color>", "duration": 1.36, "dialog": "이렇게 하면 어떻게든 클리어짱의 귀여운 모습을 잔뜩 볼 수 있다구? 우후후후후  " },
+                        { "time": 47380, "name": "<color=#62ECFF>레나</color>", "duration": 1.32, "dialog": "페일 학생... 소중한 친구를 놀릴 생각만 하면 못써요...!" },
+                        { "time": 50080, "name": "<color=#BDCEF6>플레이</color>", "duration": 1.62, "dialog": "그래, 빨리 쫓아가서, 불꽃놀이도 다 같이 챙겨오고, 사진도 다시 찍자!" },
+                        { "time": 53100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 53780, "name": " ", "duration": 1.66, "dialog": "페일이 너무했다고 생각하면서도, 나도 모르게 무서워서 울고 있을 클리어를 보고 싶다는 생각에..." },
+                        { "time": 56840, "name": " ", "duration": 1.60, "dialog": "아, 아니, 다 같이 예쁜 단체 사진을 찍을 생각에 더욱 발걸음이 빨라졌다." },
+                        { "time": 59500, "name": " ", "duration": 0, "dialog": " " }
+
+                    ]
+                },
+                "jp": {
+                    "font": "Mamelon-5-Hi-Regular",
+                    "dialogs": [
+                        { "time": 0, "name": " ", "duration": 3.30, "dialog": "<size=34>穏やかな波の音が静かに聞こえる無人島ルンル…いや、ルル・アイランドのビーチ。空には星々が瞬き、月明かりが海面に銀色の波紋を作り出している。</size>" },
+                        { "time": 4700, "name": " ", "duration": 3.00, "dialog": "<size=34>暖かい光がキャンプファイヤーの周りに集まった友達の顔をほのかに照らし、炎が燃えるたびに心地よい温もりが周囲を包み込んでいる。</size>" },
+                        { "time": 9040, "name": " ", "duration": 3.00, "dialog": "<size=34>フェイルが持参した旅行のチラシから始まった今回の冒険は、驚くようなことも多かったが、結果的には長く記憶に残る思い出となりそうだ。</size>" },
+                        { "time": 13440, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 14100, "name": "<color=#E13032>フェイル</color>", "duration": 2.32, "dialog": "<size=34>さあ、みんな！このフェイル様が準備したルル・アイランドでの大冒険を記念する写真を撮ろう〜！みんな集まって〜！</size>" },
+                        { "time": 17800, "name": " ", "duration": 0, "dialog": "<size=34>カシャ！</size>" },
+                        { "time": 19000, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 19700, "name": " ", "duration": 1.66, "dialog": "<size=34>みんなが一緒に映った素敵な写真が撮れたと思った瞬間、クリアがいないことに気づいた。</size>" },
+                        { "time": 22740, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.00, "dialog": "<size=34>あれ？クリアが見当たらないけど、どこに行ったんだろう？</size>" },
+                        { "time": 25100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 25800, "name": "<color=#E13032>フェイル</color>", "duration": 1.70, "dialog": "<size=34>うふふ、クリアちゃんは宝船に花火の箱を探しに行ったんだよ〜</size>" },
+                        { "time": 28840, "name": "<color=#E13032>フェイル</color>", "duration": 2.04, "dialog": "<size=34>震えながらも『ひとりで行くのは怖いから、誰か一緒に来てくれたらいいな』って頼まれたから…</size>" },
+                        { "time": 32200, "name": "<color=#E13032>フェイル</color>", "duration": 1.68, "dialog": "<size=34>『なめるなよ！』って震えながら消えて行ったんだ〜うふふふ…</size>" },
+                        { "time": 35580, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.30, "dialog": "<size=34>クリアが一人で？こんなところで一人で大丈夫かな…</size>" },
+                        { "time": 38280, "name": "<color=#E13032>フェイル</color>", "duration": 1.70, "dialog": "<size=34>うふふ、実は少し遅れてついて行って、怖がって泣いている顔を見たいと思っていたんだ…</size>" },
+                        { "time": 41300, "name": "<color=#E13032>フェイル</color>", "duration": 1.64, "dialog": "<size=34>それとも、私たちだけで撮った写真を見せてから、からかってみたいと思っていたのかも…</size>" },
+                        { "time": 44340, "name": "<color=#E13032>フェイル</color>", "duration": 1.36, "dialog": "<size=34>こうすれば、どうにかクリアちゃんのかわいい姿をたくさん見ることができるんだよ？うふふふふ</size>" },
+                        { "time": 47380, "name": "<color=#62ECFF>レナ</color>", "duration": 1.32, "dialog": "<size=34>フェイルさん…大切な友達をからかうことしか考えないのはダメですよ…！</size>" },
+                        { "time": 50080, "name": "<color=#BDCEF6>プレイ</color>", "duration": 1.62, "dialog": "<size=34>そうだ、早く追いかけて、花火も一緒に持って来て、写真ももう一度撮ろう！</size>" },
+                        { "time": 53100, "name": " ", "duration": 0, "dialog": " " },
+                        { "time": 53780, "name": " ", "duration": 1.66, "dialog": "<size=34>フェイルがひどいことをしたと思いながらも、知らず知らずのうちに怖がって泣いているクリアを見たい気持ちと…</size>" },
+                        { "time": 56840, "name": " ", "duration": 1.60, "dialog": "<size=34>あ、いや、みんなで素敵な集合写真を撮ることを考えると、さらに足を速めた。</size>" },
+                        { "time": 59500, "name": " ", "duration": 0, "dialog": " " }
+                    ]
+                }
+            }
+        }
+
+    ]
+}

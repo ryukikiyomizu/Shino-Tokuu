@@ -1,0 +1,71 @@
+{
+    "datas": 
+    [
+        {
+            "loop_vid_name": "mode_air_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "mode_air_loop", "time": 0  }
+            ],
+            "images": [
+                {   "filename": "no_image", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 0, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_freestyle_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "mode_freestyle_loop", "time": 0  }
+            ],
+            "images": [
+                {   "filename": "no_image", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 0, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_online_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "mode_online_loop", "time": 0  }
+            ],
+            "images": [
+                {   "filename": "no_image", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 0, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_mission_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "mode_mission_loop", "time": 0  }
+            ],
+            "images": [
+                {   "filename": "no_image", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 0, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_collection_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "mode_collection_loop", "time": 0  }
+            ],
+            "images": [
+                {   "filename": "no_image", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 0, "hideTime": 0 }
+            ]
+        },
+        {
+            "loop_vid_name": "mode_rank_loop",
+            "after_delay": 1000,
+            "after_image": "loop_loading",
+            "audios": [
+                {"filename": "mode_rank_loop", "time": 0  }
+            ],
+            "images": [
+                {   "filename": "no_image", "time": 0, "position": { "x": 0, "y": 0, "z": 0 }, "duration": 0, "hideTime": 0 }
+            ]
+        }
+    ]
+}
