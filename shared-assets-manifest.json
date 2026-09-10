@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-08-10T12:09:20.1518994+08:00",
+  "baseGameSkins": {
+    "source": "D:\\DJMAX_Extracted\\Shared Assets\\Base Game Skins",
+    "files": 7759.0,
+    "categories": {
+      "Gears": 1865,
+      "Notes": 1984,
+      "Coolbomb Effects": 3910
+    }
+  },
+  "modeSkins": {
+    "count": 30,
+    "files": 2050.0,
+    "png": 1250.0,
+    "ogg": 788.0,
+    "entries": [
+      {
+        "name": "modeskin_arcaea",
+        "pack": "2a4cddd57a6d20c0a65bc764df4f5d83",
+        "sourceBundle": "2a4cddd57a6d20c0a65bc764df4f5d83/9934d6733081279bf8bd27d49ca3b50f0dbd672f7e2a6c4b171a3c46c43968da.unity3d",
+        "files": 34,
+        "png": 12,
+        "ogg": 22,
+        "bytes": 21062718.0,
+        "linkModes": {
+          "existing": 34
+        }
+      },
+      {
+        "name": "modeskin_baseball",
+        "pack": "34b5f2f6d7cd4f324c4bb1644847af20",
+        "sourceBundle": "34b5f2f6d7cd4f324c4bb1644847af20/3ddd38edc544f6b2b7665adbb7d9de0e4de9b08f7f44dd80ced63da66098c5d5.unity3d",
+        "files": 35,
+        "png": 12,
+        "ogg": 23,
+        "bytes": 23244673.0,
+        "linkModes": {
+          "existing": 35
+        }
+      },
+      {
+        "name": "modeskin_bluearch",
+        "pack": "33c05297ad945496c0717a8f261ff7c4",
+        "sourceBundle": "33c05297ad945496c0717a8f261ff7c4/4a6147fbd49683a077e0c51595b7fe0e2a156143f2e90eb7ab5584a82446cd81.unity3d",
+        "files": 49,
+        "png": 24,
+        "ogg": 25,
+        "bytes": 42154563.0,
+        "linkModes": {
+          "existing": 49
+        }
+      },
+      {
+        "name": "modeskin_chunithm",
+        "pack": "105d7b62a7bd520116c92a02cd4dd3cd",
+        "sourceBundle": "105d7b62a7bd520116c92a02cd4dd3cd/be66e677109aab03ddd6b71457fe8620dc5b12a372d5a0a05d63fff1477d23b9.unity3d",
+        "files": 52,
+        "png": 24,
+        "ogg": 28,
+        "bytes": 14124555.0,
+        "linkModes": {
+          "existing": 52
+        }
+      },
+      {
+        "name": "modeskin_diein",
+        "pack": "6c2abfe1dc2868dea7d79eb07d95df7d",
+        "sourceBundle": "6c2abfe1dc2868dea7d79eb07d95df7d/14b817490aebea74fa493a61d7372732d1597ae6189534df045ca34fadc63531.unity3d",
+        "files": 53,
+        "png": 24,
+        "ogg": 28,
+        "bytes": 35899090.0,
+        "linkModes": {
+          "existing": 53
+        }
+      },
+      {
+        "name": "modeskin_ez2on",
+        "pack": "3b1d0ae47e33f726848f35c899c2d4e3",
+        "sourceBundle": "3b1d0ae47e33f726848f35c899c2d4e3/52d664bb52e0a13438b00e8622ed19fbcfa5954c631acaa0894e0bf5d8a03da4.unity3d",
+        "files": 42,
+        "png": 12,
+        "ogg": 29,
+        "bytes": 21450272.0,
+        "linkModes": {
+          "existing": 42
+        }
+      },
+      {
+        "name": "modeskin_falcom",
+        "pack": "1a5867475a16653ba243c712ba777b82",
+        "sourceBundle": "1a5867475a16653ba243c712ba777b82/3262ccd6d5da64d57d3c2a27a7cbd05396a5e7244d72e6a0e8a21ac901411983.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 26213608.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_glorydays",
+        "pack": "521136e494efef7b8b2eda62851023b4",
+        "sourceBundle": "521136e494efef7b8b2eda62851023b4/2d018eb075f42256f4f6a0e4f188410047dc3007f550e695d448a2d7e346c73e.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 38453515.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_hanbok",
+        "pack": "7a9464658b26ed70f9f003d509208113",
+        "sourceBundle": "7a9464658b26ed70f9f003d509208113/bd6003230f635d04f60a14304bd5687c441d1ac30538691f1d757bb267e7cf8f.unity3d",
+        "files": 50,
+        "png": 24,
+        "ogg": 25,
+        "bytes": 37226051.0,
+        "linkModes": {
+          "existing": 50
+        }
+      },
+      {
+        "name": "modeskin_leftbehind",
+        "pack": "864af318d6263243a9bdeb14e6124575",
+        "sourceBundle": "864af318d6263243a9bdeb14e6124575/a396b24272784d789c70e188a5604da7ad41f0336eb9dfb6b078bf67803822ec.unity3d",
+        "files": 41,
+        "png": 12,
+        "ogg": 28,
+        "bytes": 17431751.0,
+        "linkModes": {
+          "existing": 41
+        }
+      },
+      {
+        "name": "modeskin_live",
+        "pack": "f2e3020d598dca4bf31aa2f8369a3024",
+        "sourceBundle": "f2e3020d598dca4bf31aa2f8369a3024/00ae19ca902570488af3eec4afe8f2a6749b4eb09a1e3da0c7feff9a89024e06.unity3d",
+        "files": 721,
+        "png": 618,
+        "ogg": 102,
+        "bytes": 55001405.0,
+        "linkModes": {
+          "existing": 721
+        }
+      },
+      {
+        "name": "modeskin_maid",
+        "pack": "58d990d16b97d898154c4af02f216f6c",
+        "sourceBundle": "58d990d16b97d898154c4af02f216f6c/d0124b7fd2294a5ae29ed0790c65684c3693da6c630945099a0006e575c9dafb.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 28668472.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_maple",
+        "pack": "9ac3d0dfeb816fdd827833ae4d66b7f9",
+        "sourceBundle": "9ac3d0dfeb816fdd827833ae4d66b7f9/ea98b8e93201888c3bac3faf0308f3bcf05b2d2f38f9d898424005c619cfbfee.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 23282014.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_military",
+        "pack": "82d5e4a67a88a84b0cf880bfc6cb6b08",
+        "sourceBundle": "82d5e4a67a88a84b0cf880bfc6cb6b08/10dfcb7248e7554e4529ffa07b00599358c4cf02bec72298002a6193a2547106.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 36058803.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_mysticsummer",
+        "pack": "7794e6a63377002a98c4d84809439098",
+        "sourceBundle": "7794e6a63377002a98c4d84809439098/d6556a830b47e4a45d90df5a8d856f703b199af3f1061eb74ff45efed4ed6fc9.unity3d",
+        "files": 50,
+        "png": 24,
+        "ogg": 25,
+        "bytes": 67493390.0,
+        "linkModes": {
+          "existing": 50
+        }
+      },
+      {
+        "name": "modeskin_ongeki",
+        "pack": "d92aea5d7a02fe884444e3cc38548d08",
+        "sourceBundle": "d92aea5d7a02fe884444e3cc38548d08/a1c90c5d0b92168275f3cfb8dfe46e908dff8506e1828e4e601ff3191e8e536a.unity3d",
+        "files": 52,
+        "png": 24,
+        "ogg": 28,
+        "bytes": 28163593.0,
+        "linkModes": {
+          "existing": 52
+        }
+      },
+      {
+        "name": "modeskin_school",
+        "pack": "654bb4455072eda19f7e903d4e551b3c",
+        "sourceBundle": "654bb4455072eda19f7e903d4e551b3c/ee712017c83fc0064357fed45e09d155c3bda9907282a5e3c9fe38859ceb8953.unity3d",
+        "files": 79,
+        "png": 54,
+        "ogg": 22,
+        "bytes": 39302197.0,
+        "linkModes": {
+          "existing": 79
+        }
+      },
+      {
+        "name": "modeskin_summeradv",
+        "pack": "6f2df0ebb56b4028b03374ce09301a6b",
+        "sourceBundle": "6f2df0ebb56b4028b03374ce09301a6b/1656c0610cd2615ea0c4a09d2d5e31f1d922af487e794472080598215f081acc.unity3d",
+        "files": 47,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 34748645.0,
+        "linkModes": {
+          "existing": 47
+        }
+      },
+      {
+        "name": "modeskin_summeradv2",
+        "pack": "b2653cb9fdbdffefa7bed00d7e163fdb",
+        "sourceBundle": "b2653cb9fdbdffefa7bed00d7e163fdb/17a0f97cd565bc5e04ccded916a92ae1d6a408912aab86f7bbdc9c3fc7bf38e6.unity3d",
+        "files": 47,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 35168409.0,
+        "linkModes": {
+          "existing": 47
+        }
+      },
+      {
+        "name": "modeskin_technika2",
+        "pack": "2901295ee41d37ffb4afbe42c8dcacdb",
+        "sourceBundle": "2901295ee41d37ffb4afbe42c8dcacdb/2c8a7e4702941c591d9c374fee507f6b33d76fdc759a38e9ee8cc9eb87b0c5d5.unity3d",
+        "files": 50,
+        "png": 24,
+        "ogg": 26,
+        "bytes": 31426751.0,
+        "linkModes": {
+          "existing": 50
+        }
+      },
+      {
+        "name": "modeskin_tekken",
+        "pack": "eee6104de704e891ec319f872a2c9a1e",
+        "sourceBundle": "eee6104de704e891ec319f872a2c9a1e/c5b42f579942e5817d50ad888056a214e142cc153ae20af106dba738f3736400.unity3d",
+        "files": 52,
+        "png": 26,
+        "ogg": 25,
+        "bytes": 38230715.0,
+        "linkModes": {
+          "existing": 52
+        }
+      },
+      {
+        "name": "modeskin_valentine",
+        "pack": "61a30faac1a810c46a9116812ad927cd",
+        "sourceBundle": "61a30faac1a810c46a9116812ad927cd/bc6a83193957c1bdb6d18b5326f64f68fcb473afa336d3e14361697b88f3b1fd.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 10116515.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_vex3",
+        "pack": "2fdde2f2c7b199a71ef61504a9302f5b",
+        "sourceBundle": "2fdde2f2c7b199a71ef61504a9302f5b/af6f99ab07c89f83394d21f7d170173b8e145ec03893f98b1aba1035a296cfcd.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 37892358.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_vex4",
+        "pack": "53c7e8d2ce5d3cc95fac01114fda317d",
+        "sourceBundle": "53c7e8d2ce5d3cc95fac01114fda317d/7197c98afb4a54540cb329d92ef4eddcfbbf4bc699248d4c1e2bc04cb2ed162b.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 23131563.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_vex5",
+        "pack": "215b27662c129bd67d062e3f3458526e",
+        "sourceBundle": "215b27662c129bd67d062e3f3458526e/dc81f0d420328ccca63ece4e34672317806674ebda50d94b0dedc8732b553d2c.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 22471731.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_vl1",
+        "pack": "841109841c839c58bf5289cc4eed4ae7",
+        "sourceBundle": "841109841c839c58bf5289cc4eed4ae7/c8c1e9a86aef011d5395760286c4d9053244709288a40c27dd73c8fe9e89f4fe.unity3d",
+        "files": 46,
+        "png": 24,
+        "ogg": 22,
+        "bytes": 64340067.0,
+        "linkModes": {
+          "existing": 46
+        }
+      },
+      {
+        "name": "modeskin_vl2",
+        "pack": "42f640e248fa2dcfa83ba11e459deb8e",
+        "sourceBundle": "42f640e248fa2dcfa83ba11e459deb8e/3dc41d254fbdc2228592b76410ab93ce142412ed72b6a249c7d8cada202651de.unity3d",
+        "files": 34,
+        "png": 12,
+        "ogg": 22,
+        "bytes": 32621350.0,
+        "linkModes": {
+          "existing": 34
+        }
+      },
+      {
+        "name": "modeskin_vl3",
+        "pack": "7f4b17a40dedad57179feccf950d6722",
+        "sourceBundle": "7f4b17a40dedad57179feccf950d6722/09fd1a1a253f370f1212357c5c768c6d01e12a418f6c60a074baeaf706fddbad.unity3d",
+        "files": 34,
+        "png": 12,
+        "ogg": 22,
+        "bytes": 19822666.0,
+        "linkModes": {
+          "existing": 34
+        }
+      },
+      {
+        "name": "modeskin_vl4",
+        "pack": "68092303139760219b903a3d261bcda4",
+        "sourceBundle": "68092303139760219b903a3d261bcda4/63025485554c55518fd554a5781e3fbcc42892453655534b6343ff76f46e79be.unity3d",
+        "files": 34,
+        "png": 12,
+        "ogg": 22,
+        "bytes": 19051220.0,
+        "linkModes": {
+          "existing": 34
+        }
+      },
+      {
+        "name": "modeskin_vl5",
+        "pack": "287873e3f9fbb984a52c17b51cbe7271",
+        "sourceBundle": "287873e3f9fbb984a52c17b51cbe7271/d99ec42bd4e6d61cb7072b7def29a8b5b430f301871cb756fb632bcbf5b53250.unity3d",
+        "files": 34,
+        "png": 12,
+        "ogg": 22,
+        "bytes": 17684661.0,
+        "linkModes": {
+          "existing": 34
+        }
+      }
+    ]
+  },
+  "songCovers": {
+    "files": 3264,
+    "bytes": 1166526416.0,
+    "path": "D:\\DJMAX_Extracted\\Shared Assets\\Song Covers"
+  },
+  "configTables": [
+    "gear_skin",
+    "note_skin",
+    "mode_skin_table",
+    "icon_table"
+  ]
+}
